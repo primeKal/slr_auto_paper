@@ -501,21 +501,21 @@ URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=10501020105
 Summary: No Summary provided in search results.
 
 --- Paper 55 ---
-Title: Context-Based URL Classification for Open Access Datasets and Software in Scholarly Documents
-Authors: Salsabil L.
-Published: 2025-01-01
-Journal: Proceedings of the ACM IEEE Joint Conference on Digital Libraries
-DOI: 10.1109/JCDL67857.2025.00031
-URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033932423&origin=inward
-Summary: No Summary provided in search results.
-
---- Paper 56 ---
 Title: A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding
 Authors: Safa A.
 Published: 2025-01-01
 Journal: Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Human Language Technologies Long Papers Naacl Hlt 2025
 DOI: 10.18653/v1/2025.naacl-long.387
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027402637&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 56 ---
+Title: Context-Based URL Classification for Open Access Datasets and Software in Scholarly Documents
+Authors: Salsabil L.
+Published: 2025-01-01
+Journal: Proceedings of the ACM IEEE Joint Conference on Digital Libraries
+DOI: 10.1109/JCDL67857.2025.00031
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033932423&origin=inward
 Summary: No Summary provided in search results.
 
 --- Paper 57 ---

@@ -4,4 +4,5 @@ Search Query Used:
 --------------------------------------------------
 
 ArxivSearcher Results: 31
-PubmedSearcher Results: 20
+ScopusSearcher Results: 101
+PubmedSearcher Results: 10
