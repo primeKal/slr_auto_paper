@@ -7,3 +7,4 @@ Scopus Filter: AND SUBJAREA(COMP)
 ArxivSearcher Results: 248
 ScopusSearcher Results: 553
 PubmedSearcher Results: 9
+OpenAlexSearcher Results: 2000

@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from searchers import ArxivSearcher, IEEESearcher, ScopusSearcher, WosSearcher, PubmedSearcher
+from searchers import ArxivSearcher, IEEESearcher, ScopusSearcher, WosSearcher, PubmedSearcher, OpenAlexSearcher
 
 def main():
     load_dotenv()
@@ -41,7 +41,8 @@ def main():
         # IEEESearcher(),  ---- api key is waiting status
         ScopusSearcher(), 
         # WosSearcher(),   ---- missing api key. it is paid
-        PubmedSearcher()
+        PubmedSearcher(),
+        OpenAlexSearcher()
     ]
     
     for searcher in searchers:

@@ -6,3 +6,4 @@ Search Query Used:
 ArxivSearcher Results: 87
 ScopusSearcher Results: 72
 PubmedSearcher Results: 13
+OpenAlexSearcher Results: 2000
