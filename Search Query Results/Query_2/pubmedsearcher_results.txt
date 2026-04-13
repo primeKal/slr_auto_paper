@@ -1,17 +1,56 @@
-Total number of results: 7
+Total number of results: 13
 
 Titles of first 10 papers:
-1. Open source and reproducible and inexpensive infrastructure for data challenges and education.
-2. Pro-Con Debate: Should Code Sharing Be Mandatory for Publication?
-3. Ten simple rules for writing Dockerfiles for reproducible data science.
-4. Publishing computational research - a review of infrastructures for reproducible and transparent scholarly communication.
-5. IsoProt: A Complete and Reproducible Workflow To Analyze iTRAQ/TMT Experiments.
-6. Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses.
-7. REPRODUCIBLE AND SHAREABLE QUANTIFICATIONS OF PATHOGENICITY.
+1. Analytical fleet-sizing method for the Open Platform for Innovation in Logistics (OPIL).
+2. Searching disease-related genes with Mapping of Biological Entities from Literature (MaBEL).
+3. From articles to code: on-demand generation of core algorithms from scientific publications.
+4. Large Language Models can Help with Biostatistics and Coding Needed in Radiology Research.
+5. Open source and reproducible and inexpensive infrastructure for data challenges and education.
+6. ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns.
+7. RateML: A Code Generation Tool for Brain Network Models.
+8. Pro-Con Debate: Should Code Sharing Be Mandatory for Publication?
+9. Ten simple rules for writing Dockerfiles for reproducible data science.
+10. Publishing computational research - a review of infrastructures for reproducible and transparent scholarly communication.
 
 
 Full results details:
 --- Paper 1 ---
+Title: Analytical fleet-sizing method for the Open Platform for Innovation in Logistics (OPIL).
+Authors: Körösi L, Duchoň F
+Published: 2026 Apr 9
+Journal: Scientific reports
+DOI: 10.1038/s41598-026-46148-y
+URL: https://pubmed.ncbi.nlm.nih.gov/41957061/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 2 ---
+Title: Searching disease-related genes with Mapping of Biological Entities from Literature (MaBEL).
+Authors: Rodrigues GD, Menek GL, Lourenço DA, Kremer FS
+Published: 2026 Feb 17
+Journal: Computational biology and chemistry
+DOI: 10.1016/j.compbiolchem.2026.108958
+URL: https://pubmed.ncbi.nlm.nih.gov/41722286/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 3 ---
+Title: From articles to code: on-demand generation of core algorithms from scientific publications.
+Authors: Movassaghi CS, Momenzadeh A, Meyer JG
+Published: 2026 Jan 2
+Journal: Bioinformatics (Oxford, England)
+DOI: 10.1093/bioinformatics/btag015
+URL: https://pubmed.ncbi.nlm.nih.gov/41520302/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 4 ---
+Title: Large Language Models can Help with Biostatistics and Coding Needed in Radiology Research.
+Authors: Ghosh A, Li H, Trout AT
+Published: 2025 Feb
+Journal: Academic radiology
+DOI: 10.1016/j.acra.2024.09.042
+URL: https://pubmed.ncbi.nlm.nih.gov/39406582/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 5 ---
 Title: Open source and reproducible and inexpensive infrastructure for data challenges and education.
 Authors: DeWitt PE, Rebull MA, Bennett TD
 Published: 2024 Jan 2
@@ -20,7 +59,25 @@ DOI: 10.1038/s41597-023-02854-0
 URL: https://pubmed.ncbi.nlm.nih.gov/38167901/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 2 ---
+--- Paper 6 ---
+Title: ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns.
+Authors: Sallam M
+Published: 2023 Mar 19
+Journal: Healthcare (Basel, Switzerland)
+DOI: 10.3390/healthcare11060887
+URL: https://pubmed.ncbi.nlm.nih.gov/36981544/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 7 ---
+Title: RateML: A Code Generation Tool for Brain Network Models.
+Authors: van der Vlag M, Woodman M, Fousek J, Diaz-Pier S, Pérez Martín A, Jirsa V, Morrison A
+Published: 2022
+Journal: Frontiers in network physiology
+DOI: 10.3389/fnetp.2022.826345
+URL: https://pubmed.ncbi.nlm.nih.gov/36926112/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 8 ---
 Title: Pro-Con Debate: Should Code Sharing Be Mandatory for Publication?
 Authors: Melvin RL, Barker SJ, Kiani J, Berkowitz DE
 Published: 2022 Aug 1
@@ -29,7 +86,7 @@ DOI: 10.1213/ANE.0000000000005848
 URL: https://pubmed.ncbi.nlm.nih.gov/35839495/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 3 ---
+--- Paper 9 ---
 Title: Ten simple rules for writing Dockerfiles for reproducible data science.
 Authors: Nüst D, Sochat V, Marwick B, Eglen SJ, Head T, Hirst T, Evans BD
 Published: 2020 Nov
@@ -38,7 +95,7 @@ DOI: 10.1371/journal.pcbi.1008316
 URL: https://pubmed.ncbi.nlm.nih.gov/33170857/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 4 ---
+--- Paper 10 ---
 Title: Publishing computational research - a review of infrastructures for reproducible and transparent scholarly communication.
 Authors: Konkol M, Nüst D, Goulier L
 Published: 2020
@@ -47,7 +104,7 @@ DOI: 10.1186/s41073-020-00095-y
 URL: https://pubmed.ncbi.nlm.nih.gov/32685199/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 5 ---
+--- Paper 11 ---
 Title: IsoProt: A Complete and Reproducible Workflow To Analyze iTRAQ/TMT Experiments.
 Authors: Griss J, Vinterhalter G, Schwämmle V
 Published: 2019 Apr 5
@@ -56,7 +113,7 @@ DOI: 10.1021/acs.jproteome.8b00968
 URL: https://pubmed.ncbi.nlm.nih.gov/30855969/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 6 ---
+--- Paper 12 ---
 Title: Dugong: a Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses.
 Authors: Menegidio FB, Jabes DL, Costa de Oliveira R, Nunes LR
 Published: 2018 Feb 1
@@ -65,7 +122,7 @@ DOI: 10.1093/bioinformatics/btx554
 URL: https://pubmed.ncbi.nlm.nih.gov/28968637/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 7 ---
+--- Paper 13 ---
 Title: REPRODUCIBLE AND SHAREABLE QUANTIFICATIONS OF PATHOGENICITY.
 Authors: Manrai AK, Wang BL, Patel CJ, Kohane IS
 Published: 2016

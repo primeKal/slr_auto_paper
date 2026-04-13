@@ -1,0 +1,96 @@
+Total number of results: 9
+
+Titles of first 10 papers:
+1. Generative AI and foundation models in medical image.
+2. Styx: A multi-language API Generator for Command-Line Tools.
+3. Code generation in ORCA: progress, efficiency and tight integration.
+4. A novel code generator for graphical user interfaces.
+5. CODEIPPROMPT: Intellectual Property Infringement Assessment of Code Language Models.
+6. Geniac: Automatic Configuration GENerator and Installer for nextflow pipelines.
+7. Taking advantage of the software product line paradigm to generate customized user interfaces for decision-making processes: a case study on university employability.
+8. Tibanna: software for scalable execution of portable pipelines on the cloud.
+9. Informatics in radiology (infoRAD): NeatVision: visual programming for computer-aided diagnostic applications.
+
+
+Full results details:
+--- Paper 1 ---
+Title: Generative AI and foundation models in medical image.
+Authors: Oda M
+Published: 2025 Dec
+Journal: Radiological physics and technology
+DOI: 10.1007/s12194-025-00968-1
+URL: https://pubmed.ncbi.nlm.nih.gov/41051729/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 2 ---
+Title: Styx: A multi-language API Generator for Command-Line Tools.
+Authors: Rupprecht F, Kai J, Shrestha B, Giavasis S, Xu T, Glatard T, Milham MP, Kiar G
+Published: 2025 Jul 30
+Journal: bioRxiv : the preprint server for biology
+DOI: 10.1101/2025.07.24.666435
+URL: https://pubmed.ncbi.nlm.nih.gov/40766634/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 3 ---
+Title: Code generation in ORCA: progress, efficiency and tight integration.
+Authors: Lechner MH, Papadopoulos A, Sivalingam K, Auer AA, Koslowski A, Becker U, Wennmohs F, Neese F
+Published: 2024 May 29
+Journal: Physical chemistry chemical physics : PCCP
+DOI: 10.1039/d4cp00444b
+URL: https://pubmed.ncbi.nlm.nih.gov/38767596/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 4 ---
+Title: A novel code generator for graphical user interfaces.
+Authors: Cai B, Luo J, Feng Z
+Published: 2023 Nov 21
+Journal: Scientific reports
+DOI: 10.1038/s41598-023-46500-6
+URL: https://pubmed.ncbi.nlm.nih.gov/37989851/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 5 ---
+Title: CODEIPPROMPT: Intellectual Property Infringement Assessment of Code Language Models.
+Authors: Yu Z, Wu Y, Zhang N, Wang C, Vorobeychik Y, Xiao C
+Published: 2023 Jul
+Journal: Proceedings of machine learning research
+DOI: No DOI
+URL: https://pubmed.ncbi.nlm.nih.gov/40860285/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 6 ---
+Title: Geniac: Automatic Configuration GENerator and Installer for nextflow pipelines.
+Authors: Allain F, Roméjon J, La Rosa P, Jarlier F, Servant N, Hupé P
+Published: 2021
+Journal: Open research Europe
+DOI: 10.12688/openreseurope.13861.2
+URL: https://pubmed.ncbi.nlm.nih.gov/37645091/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 7 ---
+Title: Taking advantage of the software product line paradigm to generate customized user interfaces for decision-making processes: a case study on university employability.
+Authors: Vázquez-Ingelmo A, García-Peñalvo FJ, Therón R
+Published: 2019
+Journal: PeerJ. Computer science
+DOI: 10.7717/peerj-cs.203
+URL: https://pubmed.ncbi.nlm.nih.gov/33816856/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 8 ---
+Title: Tibanna: software for scalable execution of portable pipelines on the cloud.
+Authors: Lee S, Johnson J, Vitzthum C, Kırlı K, Alver BH, Park PJ
+Published: 2019 Nov 1
+Journal: Bioinformatics (Oxford, England)
+DOI: 10.1093/bioinformatics/btz379
+URL: https://pubmed.ncbi.nlm.nih.gov/31077294/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 9 ---
+Title: Informatics in radiology (infoRAD): NeatVision: visual programming for computer-aided diagnostic applications.
+Authors: Whelan PF, Sadleir RJ, Ghita O
+Published: 2004 Nov-Dec
+Journal: Radiographics : a review publication of the Radiological Society of North America, Inc
+DOI: 10.1148/rg.246045021
+URL: https://pubmed.ncbi.nlm.nih.gov/15537985/
+Summary: Available in PubMed search engine via the URL.
+

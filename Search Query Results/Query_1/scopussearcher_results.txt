@@ -1,20 +1,29 @@
-Total number of results: 101
+Total number of results: 285
 
 Titles of first 10 papers:
-1. PyPIMalDet: A malicious PyPI package detection method combining code features and metadata features
-2. Leverage Knowledge Graph and Large Language Model for law article recommendation: A case study of Chinese criminal law
-3. OntoSage: Intelligent Human-Building Smartbot for Semantic Smart Building Question Answering
-4. Span-level detection of AI-generated scientific text via contrastive learning and structural calibration
-5. Fine-tuning a vulnerability-specific large language model for a hybrid software vulnerability detection method
-6. Research on Binary Decompilation Optimization Based on Fine-Tuned Large Language Models for Vulnerability Detection
-7. A transformer-based approach for source code classification for heterogeneous device mapping
-8. CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs Towards CWE Detection
-9. Tracing Information Flow in LLaMA Vision: A Step Toward Multimodal Understanding
-10. AI-Powered Vulnerability Detection and Patch Management in Cybersecurity: A Systematic Review of Techniques, Challenges, and Emerging Trends
+1. Enhancing the ability of LLMs for spaceborne equipment code generation via retrieval-augmented generation and contrastive learning
+2. PyPIMalDet: A malicious PyPI package detection method combining code features and metadata features
+3. Leverage Knowledge Graph and Large Language Model for law article recommendation: A case study of Chinese criminal law
+4. Improving the ability of pre-trained language model by imparting large language model's experience
+5. OntoSage: Intelligent Human-Building Smartbot for Semantic Smart Building Question Answering
+6. ChartCode: A Flowchart-Centric Educational Tool for Introductory Programming
+7. Span-level detection of AI-generated scientific text via contrastive learning and structural calibration
+8. A Survey on Large Language Models for Code Generation
+9. Fine-tuning a vulnerability-specific large language model for a hybrid software vulnerability detection method
+10. Evaluating LLMs for Source Code Generation and Summarization Using Machine Learning Classification and Ranking
 
 
 Full results details:
 --- Paper 1 ---
+Title: Enhancing the ability of LLMs for spaceborne equipment code generation via retrieval-augmented generation and contrastive learning
+Authors: He R.
+Published: 2026-06-01
+Journal: Automated Software Engineering
+DOI: 10.1007/s10515-025-00545-1
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105014880149&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 2 ---
 Title: PyPIMalDet: A malicious PyPI package detection method combining code features and metadata features
 Authors: Yan J.
 Published: 2026-05-01
@@ -23,7 +32,7 @@ DOI: 10.1016/j.neunet.2025.108487
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105025547877&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 2 ---
+--- Paper 3 ---
 Title: Leverage Knowledge Graph and Large Language Model for law article recommendation: A case study of Chinese criminal law
 Authors: Chen Y.
 Published: 2026-04-01
@@ -32,7 +41,16 @@ DOI: 10.1016/j.websem.2026.100879
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105032147409&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 3 ---
+--- Paper 4 ---
+Title: Improving the ability of pre-trained language model by imparting large language model's experience
+Authors: Yin X.
+Published: 2026-04-01
+Journal: Journal of Systems and Software
+DOI: 10.1016/j.jss.2025.112744
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027523720&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 5 ---
 Title: OntoSage: Intelligent Human-Building Smartbot for Semantic Smart Building Question Answering
 Authors: Devmane S.
 Published: 2026-03-01
@@ -41,7 +59,16 @@ DOI: 10.1007/s11280-026-01403-0
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028066091&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 4 ---
+--- Paper 6 ---
+Title: ChartCode: A Flowchart-Centric Educational Tool for Introductory Programming
+Authors: Xing G.
+Published: 2026-02-17
+Journal: SIGCSE TS 2026 Proceedings of the 57th ACM Technical Symposium on Computer Science Education V 1
+DOI: 10.1145/3770762.3772525
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105031895558&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 7 ---
 Title: Span-level detection of AI-generated scientific text via contrastive learning and structural calibration
 Authors: Yin Z.
 Published: 2026-02-15
@@ -50,7 +77,16 @@ DOI: 10.1016/j.knosys.2025.115123
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105025138161&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 5 ---
+--- Paper 8 ---
+Title: A Survey on Large Language Models for Code Generation
+Authors: Jiang J.
+Published: 2026-02-01
+Journal: ACM Transactions on Software Engineering and Methodology
+DOI: 10.1145/3747588
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105030536660&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 9 ---
 Title: Fine-tuning a vulnerability-specific large language model for a hybrid software vulnerability detection method
 Authors: Wang S.
 Published: 2026-02-01
@@ -59,7 +95,34 @@ DOI: 10.1016/j.engappai.2025.113410
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023961462&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 6 ---
+--- Paper 10 ---
+Title: Evaluating LLMs for Source Code Generation and Summarization Using Machine Learning Classification and Ranking
+Authors: Mahfoodh H.
+Published: 2026-02-01
+Journal: Computers
+DOI: 10.3390/computers15020119
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105031358874&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 11 ---
+Title: AdaCoder: An Adaptive Planning and Multi-Agent Framework for Function-Level Code Generation
+Authors: Zhu Y.
+Published: 2026-01-01
+Journal: IEEE Transactions on Software Engineering
+DOI: 10.1109/TSE.2025.3642621
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105024814868&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 12 ---
+Title: Evaluating Retrieval-Augmented Generation for LLM-Based Vulnerability Detection: An Empirical Study on Real-World Java Vulnerabilities
+Authors: Antal G.
+Published: 2026-01-01
+Journal: IEEE Access
+DOI: 10.1109/ACCESS.2026.3676577
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034452191&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 13 ---
 Title: Research on Binary Decompilation Optimization Based on Fine-Tuned Large Language Models for Vulnerability Detection
 Authors: Wang Y.
 Published: 2026-01-01
@@ -68,7 +131,16 @@ DOI: 10.3390/electronics15010008
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027854297&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 7 ---
+--- Paper 14 ---
+Title: A Study on the Application of Large Language Models for Library Security Testing Under Low-Resource Conditions
+Authors: Tran C.T.
+Published: 2026-01-01
+Journal: Communications in Computer and Information Science
+DOI: 10.1007/978-3-031-98164-7_19
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105012029800&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 15 ---
 Title: A transformer-based approach for source code classification for heterogeneous device mapping
 Authors: Siino M.
 Published: 2026-01-01
@@ -77,7 +149,7 @@ DOI: 10.1016/j.engappai.2025.112987
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022154956&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 8 ---
+--- Paper 16 ---
 Title: CASTLE: Benchmarking Dataset for Static Code Analyzers and LLMs Towards CWE Detection
 Authors: Dubniczky R.A.
 Published: 2026-01-01
@@ -86,7 +158,25 @@ DOI: 10.1007/978-3-031-98208-8_15
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011339828&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 9 ---
+--- Paper 17 ---
+Title: Code Redteaming: Probing Ethical Sensitivity of LLMs Through Natural Language Embedded in Code
+Authors: Park C.
+Published: 2026-01-01
+Journal: Mathematics
+DOI: 10.3390/math14010189
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027967871&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 18 ---
+Title: RAG and Agentic Assistant: A Combined Approach
+Authors: Ben Hajhmida M.
+Published: 2026-01-01
+Journal: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-032-07132-3_4
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020259904&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 19 ---
 Title: Tracing Information Flow in LLaMA Vision: A Step Toward Multimodal Understanding
 Authors: Saporita A.
 Published: 2026-01-01
@@ -95,7 +185,16 @@ DOI: 10.1007/978-3-032-05060-1_20
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105024537407&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 10 ---
+--- Paper 20 ---
+Title: Natural language processing metrics efficiency for evaluating a generated code: facing the challenge
+Authors: Fedrushkov D.V.
+Published: 2026-01-01
+Journal: Scientific and Technical Journal of Information Technologies Mechanics and Optics
+DOI: 10.17586/2226-1494-2026-26-1-135-144
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105031872500&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 21 ---
 Title: AI-Powered Vulnerability Detection and Patch Management in Cybersecurity: A Systematic Review of Techniques, Challenges, and Emerging Trends
 Authors: Malkawi M.
 Published: 2026-01-01
@@ -104,7 +203,25 @@ DOI: 10.3390/make8010019
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105029118026&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 11 ---
+--- Paper 22 ---
+Title: Repository-Level Code Generation Method Enhanced by Context-Dependent Graph Retrieval
+Authors: Zhang H.
+Published: 2026-01-01
+Journal: Lecture Notes of the Institute for Computer Sciences Social Informatics and Telecommunications Engineering Lnicst
+DOI: 10.1007/978-3-031-93257-1_3
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105014126421&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 23 ---
+Title: Prompt-Guided Evaluation of GPT-4o, Gemini and DeepSeek on UML-to-Java Code Generation
+Authors: Escobar M.
+Published: 2026-01-01
+Journal: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-032-08620-4_13
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020671429&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 24 ---
 Title: Distributed Multimodal Video Generation and Interaction Framework Based on Message-Driven Middleware
 Authors: Altaibek M.
 Published: 2026-01-01
@@ -113,7 +230,7 @@ DOI: 10.1007/978-3-032-11512-6_14
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027937927&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 12 ---
+--- Paper 25 ---
 Title: Agentic AI With Orchestrator-Agent Trust: A Modular Visual Classification Framework With Trust-Aware Orchestration and RAG-Based Reasoning
 Authors: Roumeliotis K.I.
 Published: 2026-01-01
@@ -122,7 +239,7 @@ DOI: 10.1109/ACCESS.2026.3662282
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105029623075&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 13 ---
+--- Paper 26 ---
 Title: GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging
 Authors: Ni Z.
 Published: 2026-01-01
@@ -131,7 +248,34 @@ DOI: 10.1609/aaai.v40i38.40533
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034604713&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 14 ---
+--- Paper 27 ---
+Title: DECodeT5: A Lightweight and Efficient Neural Decompiler with Assembly Semantic Assistance
+Authors: Liu L.
+Published: 2026-01-01
+Journal: IEEE Internet of Things Journal
+DOI: 10.1109/JIOT.2026.3659328
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105029260791&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 28 ---
+Title: How Well Do Large Language Models Serve as End-to-End Secure Code Agents for Python?
+Authors: Gong J.
+Published: 2025-12-24
+Journal: Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering Ease 2025 Edition Ease 2025
+DOI: 10.1145/3756681.3756984
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105026975859&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 29 ---
+Title: Do Prompt Patterns Affect Code Quality? A First Empirical Assessment of ChatGPT-Generated Code
+Authors: Della Porta A.
+Published: 2025-12-24
+Journal: Proceedings of the 29th International Conference on Evaluation and Assessment in Software Engineering Ease 2025 Edition Ease 2025
+DOI: 10.1145/3756681.3756938
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027126023&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 30 ---
 Title: A unified rotating machinery health management framework leveraging large language models for diverse components, conditions, and tasks
 Authors: Peng H.
 Published: 2025-12-22
@@ -140,7 +284,7 @@ DOI: 10.1016/j.engappai.2025.112544
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105017644022&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 15 ---
+--- Paper 31 ---
 Title: Geniie-Lab: A Testbed for Controlled Experimentation of Model Search Behaviour
 Authors: Joho H.
 Published: 2025-12-06
@@ -149,7 +293,25 @@ DOI: 10.1145/3767695.3769479
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105026248206&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 16 ---
+--- Paper 32 ---
+Title: Correctness assessment of code generated by Large Language Models using internal representations
+Authors: Bui T.D.
+Published: 2025-12-01
+Journal: Journal of Systems and Software
+DOI: 10.1016/j.jss.2025.112570
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011384991&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 33 ---
+Title: Generative AI and foundation models in medical image
+Authors: Oda M.
+Published: 2025-12-01
+Journal: Radiological Physics and Technology
+DOI: 10.1007/s12194-025-00968-1
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105017990183&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 34 ---
 Title: LogEval: A comprehensive benchmark suite for LLMs in log analysis
 Authors: Cui T.
 Published: 2025-12-01
@@ -158,7 +320,16 @@ DOI: 10.1007/s10664-025-10701-6
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019053875&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 17 ---
+--- Paper 35 ---
+Title: Performance and interpretability analysis of code generation large language models
+Authors: Pendyala V.S.
+Published: 2025-12-01
+Journal: Neurocomputing
+DOI: 10.1016/j.neucom.2025.131461
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105016313547&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 36 ---
 Title: Combining LLMs and Knowledge Graphs to Reduce Hallucinations in Biomedical Question Answering
 Authors: Pusch L.
 Published: 2025-12-01
@@ -167,7 +338,7 @@ DOI: 10.3390/biomedinformatics5040070
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105026480688&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 18 ---
+--- Paper 37 ---
 Title: LLM-Based Pipeline for Structured Knowledge Extraction from Scientific Literature on Heavy Metal Hyperaccumulation
 Authors: Makrinsky K.
 Published: 2025-12-01
@@ -176,7 +347,7 @@ DOI: 10.3390/make7040152
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105025902745&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 19 ---
+--- Paper 38 ---
 Title: WhisperTest: A Voice-Control-based Library for iOS UI Automation
 Authors: Moti Z.
 Published: 2025-11-22
@@ -185,7 +356,34 @@ DOI: 10.1145/3719027.3765183
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023867511&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 20 ---
+--- Paper 39 ---
+Title: An Interactive Agentic HPC Tutor for Lesson Planning, Teaching, and Assessment
+Authors: Pautsch E.
+Published: 2025-11-15
+Journal: Proceedings of 2025 Workshops of the International Conference on High Performance Computing Network Storage and Analysis Sc 2025 Workshops
+DOI: 10.1145/3731599.3767386
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023430485&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 40 ---
+Title: Interactive End-to-End Decompilation via Large Language Models
+Authors: Feng Y.
+Published: 2025-11-01
+Journal: Electronics Switzerland
+DOI: 10.3390/electronics14224442
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023179504&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 41 ---
+Title: Neural Methods for Programming: A Comprehensive Survey and Future Directions
+Authors: Maru G.G.
+Published: 2025-11-01
+Journal: Applied Sciences Switzerland
+DOI: 10.3390/app152212150
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022941037&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 42 ---
 Title: Automated generation of research workflows from academic papers: a full-text mining framework
 Authors: Zhang H.
 Published: 2025-11-01
@@ -194,7 +392,7 @@ DOI: 10.1016/j.joi.2025.101732
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020938355&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 21 ---
+--- Paper 43 ---
 Title: ETrace: Event-Driven Vulnerability Detection in Smart Contracts via LLM-Based Trace Analysis
 Authors: Peng C.
 Published: 2025-10-27
@@ -203,7 +401,7 @@ DOI: 10.1145/3755881.3755934
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023664455&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 22 ---
+--- Paper 44 ---
 Title: Raising the Reproducibility Bar
 Authors: Wonsil J.
 Published: 2025-10-21
@@ -212,7 +410,16 @@ DOI: 10.1145/3736731.3746157
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022160543&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 23 ---
+--- Paper 45 ---
+Title: Adapting the AI Scientist for Enterprise: Solving Real Business Problems with Autonomous Text-To-SQL Research
+Authors: Fedorov V.
+Published: 2025-10-01
+Journal: Doklady Mathematics
+DOI: 10.1134/S1064562425700474
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033844918&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 46 ---
 Title: From segmentation to explanation: Generating textual reports from MRI with LLMs
 Authors: Valerio A.G.
 Published: 2025-10-01
@@ -221,7 +428,7 @@ DOI: 10.1016/j.cmpb.2025.108922
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009894689&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 24 ---
+--- Paper 47 ---
 Title: Local Agentic RAG-Based Information System Development for Intelligent Analysis of GitHub Code Repositories in Computer Science Education
 Authors: Hu Z.
 Published: 2025-10-01
@@ -230,7 +437,7 @@ DOI: 10.5815/ijmecs.2025.05.07
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022057968&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 25 ---
+--- Paper 48 ---
 Title: Can Large Language Models Predict Parallel Code Performance?
 Authors: Bolet G.
 Published: 2025-09-09
@@ -239,7 +446,16 @@ DOI: 10.1145/3731545.3743645
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105017974123&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 26 ---
+--- Paper 49 ---
+Title: Offloading the Tedious Task of Writing eBPF Programs
+Authors: Gao X.
+Published: 2025-09-08
+Journal: Ebpf 2025 Proceedings of the 2025 3rd Workshop on Ebpf and Kernel Extensions Part of SIGCOMM 2025
+DOI: 10.1145/3748355.3748369
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018233495&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 50 ---
 Title: The Tabular Accessibility Dataset: A Benchmark for LLM-Based Web Accessibility Auditing
 Authors: Andruccioli M.
 Published: 2025-09-01
@@ -248,7 +464,25 @@ DOI: 10.3390/data10090149
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105017851931&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 27 ---
+--- Paper 51 ---
+Title: Automated Malware Source Code Generation via Uncensored LLMs and Adversarial Evasion of Censored Model
+Authors: Acosta-Bermejo R.
+Published: 2025-09-01
+Journal: Applied Sciences Switzerland
+DOI: 10.3390/app15179252
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105015559598&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 52 ---
+Title: Generating vulnerability security fixes with Code Language Models
+Authors: Bhandari G.
+Published: 2025-09-01
+Journal: Information and Software Technology
+DOI: 10.1016/j.infsof.2025.107786
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105006850129&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 53 ---
 Title: Analyzing key factors influencing IPL cricket scores using explainability and multimodal data
 Authors: Bhatnagar M.
 Published: 2025-09-01
@@ -257,7 +491,43 @@ DOI: 10.1515/jqas-2025-0006
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105008189923&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 28 ---
+--- Paper 54 ---
+Title: LLM-based Co-Evolution of Configurable Software Systems
+Authors: Zine N.
+Published: 2025-08-31
+Journal: Splc 2025 29th ACM International Systems and Software Product Line Conference Proceedings
+DOI: 10.1145/3744915.3748460
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105017225660&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 55 ---
+Title: ConTraPh: Contrastive Learning for Parallelization and Performance Optimization
+Authors: Mahmud Q.I.
+Published: 2025-08-22
+Journal: Proceedings of the International Conference on Supercomputing
+DOI: 10.1145/3721145.3725758
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021470131&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 56 ---
+Title: Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation
+Authors: Wang C.
+Published: 2025-08-14
+Journal: ACM Transactions on Software Engineering and Methodology
+DOI: 10.1145/3714462
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018582447&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 57 ---
+Title: An Empirical Study of Retrieval-Augmented Code Generation: Challenges and Opportunities
+Authors: Yang Z.
+Published: 2025-08-14
+Journal: ACM Transactions on Software Engineering and Methodology
+DOI: 10.1145/3717061
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018298573&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 58 ---
 Title: Tunnel Rapid AI Classification (TRaiC): An Open-Source Code for 360° Tunnel Face Mapping, Discontinuity Analysis, and RAG-LLM-Powered Geo-Engineering Reporting
 Authors: Mehrishal S.
 Published: 2025-08-01
@@ -266,7 +536,16 @@ DOI: 10.3390/rs17162891
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105014257189&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 29 ---
+--- Paper 59 ---
+Title: Teaching and learning computer programming using ChatGPT: A rapid review of literature amid the rise of generative AI technologies
+Authors: Garcia M.B.
+Published: 2025-08-01
+Journal: Education and Information Technologies
+DOI: 10.1007/s10639-025-13452-5
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85218947086&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 60 ---
 Title: Decoding CI/CD Practices in Open-Source Projects with LLM Insights
 Authors: Chomątek Ł.
 Published: 2025-07-28
@@ -275,7 +554,7 @@ DOI: 10.1145/3696630.3728699
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105013960365&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 30 ---
+--- Paper 61 ---
 Title: Towards the Versioning of LLM-Agent-Based Software
 Authors: Liu C.
 Published: 2025-07-28
@@ -284,7 +563,7 @@ DOI: 10.1145/3696630.3728714
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105013962950&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 31 ---
+--- Paper 62 ---
 Title: AIOpsLab in Action: An Open Platform for AIOps Research
 Authors: Ma M.
 Published: 2025-07-28
@@ -293,7 +572,7 @@ DOI: 10.1145/3696630.3728619
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105013956744&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 32 ---
+--- Paper 63 ---
 Title: Combating Biomedical Misinformation through Multi-modal Claim Detection and Evidence-based Verification
 Authors: Barone M.
 Published: 2025-07-13
@@ -302,7 +581,7 @@ DOI: 10.1145/3726302.3730155
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011816085&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 33 ---
+--- Paper 64 ---
 Title: KIMERA: From Evaluation-as-a-Service to Evaluation-in-the-Cloud
 Authors: Pasin A.
 Published: 2025-07-13
@@ -311,7 +590,7 @@ DOI: 10.1145/3726302.3730298
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011823475&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 34 ---
+--- Paper 65 ---
 Title: DrugTar improves druggability prediction by integrating large language models and gene ontologies
 Authors: Borhani N.
 Published: 2025-07-01
@@ -320,7 +599,7 @@ DOI: 10.1093/bioinformatics/btaf360
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105012873980&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 35 ---
+--- Paper 66 ---
 Title: Reproducibility Companion Paper: u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model
 Authors: Xu J.
 Published: 2025-06-30
@@ -329,7 +608,7 @@ DOI: 10.1145/3731715.3734537
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011655389&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 36 ---
+--- Paper 67 ---
 Title: Program Interoperable Large Language Model Software Testing Scheme: A Case Study on JavaScript Engine Fuzzing
 Authors: Cao D.
 Published: 2025-06-19
@@ -338,7 +617,16 @@ DOI: 10.1109/TDSC.2025.3581213
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009004541&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 37 ---
+--- Paper 68 ---
+Title: Large Language Models for C Test Case Generation: A Comparative Analysis
+Authors: Guzu A.
+Published: 2025-06-01
+Journal: Electronics Switzerland
+DOI: 10.3390/electronics14112284
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105007699925&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 69 ---
 Title: Low variance trust region optimization with independent actors and sequential updates in cooperative multi-agent reinforcement learning
 Authors: Le B.G.
 Published: 2025-06-01
@@ -347,7 +635,16 @@ DOI: 10.1007/s10458-025-09695-8
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85218408469&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 38 ---
+--- Paper 70 ---
+Title: Open Source AI-based SE Tools: Opportunities and Challenges of Collaborative Software Learning
+Authors: Lin Z.
+Published: 2025-05-24
+Journal: ACM Transactions on Software Engineering and Methodology
+DOI: 10.1145/3708529
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105007512825&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 71 ---
 Title: Diverse Knowledge Selection for Enhanced Zero-shot Visual Question Answering
 Authors: Han S.
 Published: 2025-05-23
@@ -356,7 +653,88 @@ DOI: 10.1145/3701716.3717563
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009247998&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 39 ---
+--- Paper 72 ---
+Title: BadCodePrompt: backdoor attacks against prompt engineering of large language models for code generation
+Authors: Qu Y.
+Published: 2025-05-01
+Journal: Automated Software Engineering
+DOI: 10.1007/s10515-024-00485-2
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85218230502&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 73 ---
+Title: A study on prompt design, advantages and limitations of ChatGPT for deep learning program repair
+Authors: Cao J.
+Published: 2025-05-01
+Journal: Automated Software Engineering
+DOI: 10.1007/s10515-025-00492-x
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=86000294766&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 74 ---
+Title: DOMAINEVAL: An Auto-Constructed Benchmark for Multi-Domain Code Generation
+Authors: Zhu Q.
+Published: 2025-04-11
+Journal: Proceedings of the Aaai Conference on Artificial Intelligence
+DOI: 10.1609/aaai.v39i24.34811
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105004001212&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 75 ---
+Title: How secure is AI-generated code: a large-scale comparison of large language models
+Authors: Tihanyi N.
+Published: 2025-03-01
+Journal: Empirical Software Engineering
+DOI: 10.1007/s10664-024-10590-1
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85212941451&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 76 ---
+Title: Robustness evaluation of code generation systems via concretizing instructions
+Authors: Yan M.
+Published: 2025-03-01
+Journal: Information and Software Technology
+DOI: 10.1016/j.infsof.2024.107645
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85212974469&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 77 ---
+Title: Research on Compressed Input Sequences Based on Compiler Tokenization
+Authors: Li Z.
+Published: 2025-02-01
+Journal: Information Switzerland
+DOI: 10.3390/info16020073
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85218454061&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 78 ---
+Title: “Ok Pal, we have to code that now”: interaction patterns of programming beginners with a conversational chatbot
+Authors: Mailach A.
+Published: 2025-02-01
+Journal: Empirical Software Engineering
+DOI: 10.1007/s10664-024-10561-6
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85211085694&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 79 ---
+Title: Agentic AI for Explainable Data Analysis in District Heating Systems: An AutoGen-Based Approach
+Authors: Speletic M.
+Published: 2025-01-01
+Journal: 2025 10th International Conference on Frontiers of Signal Processing Icfsp 2025
+DOI: 10.1109/ICFSP67350.2025.11353840
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033524716&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 80 ---
+Title: LLMSDH: An Integrated Software-assisted Development Tool Based on Large Language Models
+Authors: Zhu S.
+Published: 2025-01-01
+Journal: Proceedings 2025 25th International Conference on Software Quality Reliability and Security Companion Qrs C 2025
+DOI: 10.1109/QRS-C65679.2025.00087
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023712958&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 81 ---
 Title: VVF-AI: A vulnerability verification framework based on AI- agent
 Authors: Liu C.
 Published: 2025-01-01
@@ -365,7 +743,106 @@ DOI: 10.1109/AINIT65432.2025.11035850
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010196035&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 40 ---
+--- Paper 82 ---
+Title: Afcode LLM: Large language model for code generation used for the AFSIM simulation platform
+Authors: Wang G.
+Published: 2025-01-01
+Journal: Proceedings of SPIE the International Society for Optical Engineering
+DOI: 10.1117/12.3073338
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105014241772&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 83 ---
+Title: Industrial Control Software Migration Based on Large Language Models
+Authors: Lin M.
+Published: 2025-01-01
+Journal: IECON Proceedings Industrial Electronics Conference
+DOI: 10.1109/IECON58223.2025.11221674
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105024684115&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 84 ---
+Title: HinglishEval: Evaluating the Effectiveness of Code-Generation Models on Hinglish Prompts
+Authors: Pawagi M.
+Published: 2025-01-01
+Journal: Communications in Computer and Information Science
+DOI: 10.1007/978-3-031-84391-4_2
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105001309617&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 85 ---
+Title: RefactorGPT: a ChatGPT-based multi-agent framework for automated code refactoring
+Authors: Karabiyik M.A.
+Published: 2025-01-01
+Journal: Peerj Computer Science
+DOI: 10.7717/peerj-cs.3257
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018920944&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 86 ---
+Title: A Retrieval Filtering and Thought Enhancement Framework for Function-Level Code Generation Based on Large Language Model
+Authors: Wu C.
+Published: 2025-01-01
+Journal: Conference Proceedings IEEE International Conference on Systems Man and Cybernetics
+DOI: 10.1109/SMC58881.2025.11343122
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033150008&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 87 ---
+Title: Generative AI in Cybersecurity: Generating Offensive Code from Natural Language
+Authors: Liguori P.
+Published: 2025-01-01
+Journal: Proceedings 2025 55th Annual IEEE IFIP International Conference on Dependable Systems and Networks Supplemental Volume Dsn S 2025
+DOI: 10.1109/DSN-S65789.2025.00059
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011414218&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 88 ---
+Title: Between Lines of Code: Unraveling the Distinct Patterns of Machine and Human Programmers
+Authors: Shi Y.
+Published: 2025-01-01
+Journal: Proceedings International Conference on Software Engineering
+DOI: 10.1109/ICSE55347.2025.00005
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010337050&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 89 ---
+Title: COFT: Making Large Language Models Better Zero-Shot Learners for Code Generation
+Authors: Li W.
+Published: 2025-01-01
+Journal: IEEE International Conference on Program Comprehension
+DOI: 10.1109/ICPC66645.2025.00059
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009080200&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 90 ---
+Title: CodeReviewQA: The Code Review Comprehension Assessment for Large Language Models
+Authors: Lin H.Y.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.findings-acl.476
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028622894&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 91 ---
+Title: On the Variations of ChatGPT’s Response Quality for Generating Source Code Across Programming Languages
+Authors: González de Diego Á.
+Published: 2025-01-01
+Journal: Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+DOI: 10.1007/978-3-031-80889-0_5
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85218455336&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 92 ---
+Title: Exploring the Feasibility of End-to-End Large Language Model as a Compiler
+Authors: Zhang H.
+Published: 2025-01-01
+Journal: Proceedings of the International Joint Conference on Neural Networks
+DOI: 10.1109/IJCNN64981.2025.11229275
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105029222981&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 93 ---
 Title: Leveraging Continuous Integration and Deployment to Operationalize a Fine-Tuned LLaMA Healthcare Chatbot
 Authors: More P.
 Published: 2025-01-01
@@ -374,7 +851,7 @@ DOI: 10.1109/ICCAMS65118.2025.11233960
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105030080259&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 41 ---
+--- Paper 94 ---
 Title: A Systematic Review on Detection, Repair, and Explanation of Vulnerabilities in Source Code Using Large Language Models
 Authors: Germano L.B.
 Published: 2025-01-01
@@ -383,7 +860,7 @@ DOI: 10.1109/ACCESS.2025.3631363
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021928380&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 42 ---
+--- Paper 95 ---
 Title: Review of Large Language Model-Based Software Fault Localization Techniques
 Authors: Pan T.
 Published: 2025-01-01
@@ -392,7 +869,61 @@ DOI: 10.1109/DSA66321.2025.00021
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105032975695&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 43 ---
+--- Paper 96 ---
+Title: Knowledge Graph Based Repository-Level Code Generation
+Authors: Athale M.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE ACM International Workshop on Large Language Models for Code Llm4code 2025
+DOI: 10.1109/LLM4Code66737.2025.00026
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009082813&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 97 ---
+Title: Personality-Guided Code Generation Using Large Language Models
+Authors: Guo Y.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.acl-long.54
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021023579&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 98 ---
+Title: Evaluation of the Code Generated By Large Language Models: The State of the Art
+Authors: Ying Z.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE 49th Annual Computers Software and Applications Conference Compsac 2025
+DOI: 10.1109/COMPSAC65507.2025.00064
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105016153409&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 99 ---
+Title: Beyond Decomposition: A LLM-Powered Automated Approach to Refactoring Monoliths Into Microservices
+Authors: Sellami K.
+Published: 2025-01-01
+Journal: IEEE International Conference on Software Quality Reliability and Security Qrs
+DOI: 10.1109/QRS65678.2025.00018
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018798967&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 100 ---
+Title: SnipGen: A Mining Repository Framework for Evaluating LLMs for Code
+Authors: Rodriguez-Cardenas D.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE ACM 22nd International Conference on Mining Software Repositories MSR 2025
+DOI: 10.1109/MSR66628.2025.00084
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009050306&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 101 ---
+Title: Cracks in The Stack: Hidden Vulnerabilities and Licensing Risks in LLM Pre-Training Datasets
+Authors: Jahanshahi M.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE ACM International Workshop on Large Language Models for Code Llm4code 2025
+DOI: 10.1109/LLM4Code66737.2025.00018
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009118131&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 102 ---
 Title: Unleashing the Power of LLM to Infer State Machine From the Protocol Implementation
 Authors: Wei H.
 Published: 2025-01-01
@@ -401,7 +932,16 @@ DOI: 10.1109/IWQoS65803.2025.11143461
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105017007318&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 44 ---
+--- Paper 103 ---
+Title: Fixing Large Language Models' Specification Misunderstanding for Better Code Generation
+Authors: Tian Z.
+Published: 2025-01-01
+Journal: Proceedings International Conference on Software Engineering
+DOI: 10.1109/ICSE55347.2025.00108
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010316561&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 104 ---
 Title: LLM-based Generation of Personalized, Context-aware City Tourist Itineraries: A User Study with GPT Trip Planner
 Authors: González-Sanz E.L.
 Published: 2025-01-01
@@ -410,7 +950,7 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018668550&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 45 ---
+--- Paper 105 ---
 Title: An Agentic Reasoning-Based Feedback System for Programming Assignments
 Authors: Sulaiman N.A.A.
 Published: 2025-01-01
@@ -419,7 +959,16 @@ DOI: 10.1109/ICCED68324.2025.11324743
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105032993329&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 46 ---
+--- Paper 106 ---
+Title: Towards a Model-Driven Approach to Automatic Code Generation for Android Applications
+Authors: Macias D.
+Published: 2025-01-01
+Journal: Ceur Workshop Proceedings
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019261293&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 107 ---
 Title: MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs
 Authors: Alyafeai Z.
 Published: 2025-01-01
@@ -428,7 +977,25 @@ DOI: 10.18653/v1/2025.findings-emnlp.655
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028993475&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 47 ---
+--- Paper 108 ---
+Title: Question Answering over DBpedia with Fine-tuned Autoregressive Models
+Authors: Soru T.
+Published: 2025-01-01
+Journal: Ceur Workshop Proceedings
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034372551&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 109 ---
+Title: Exploring Contextualized Embeddings for C++ Code Search and Algorithms Classification
+Authors: Khazhiev R.R.
+Published: 2025-01-01
+Journal: International Youth Conference on Radio Electronics Electrical and Power Engineering Reepe
+DOI: 10.1109/REEPE63962.2025.10971156
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105005834265&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 110 ---
 Title: Decoding Persuasiveness in Eloquence Competitions: An Investigation into the LLM’s Ability to Assess Public Speaking
 Authors: Barkar A.
 Published: 2025-01-01
@@ -437,7 +1004,34 @@ DOI: 10.5220/0013158400003890
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105001943063&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 48 ---
+--- Paper 111 ---
+Title: Improving Quality of LLM Code Generation in Low-Resource Programming Languages via Uncertainty Estimation
+Authors: Andriushchenko G.
+Published: 2025-01-01
+Journal: Proceedings 2025 40th IEEE ACM International Conference on Automated Software Engineering Ase 2025
+DOI: 10.1109/ASE63991.2025.00399
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034643363&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 112 ---
+Title: CKGFuzzer: LLM-Based Fuzz Driver Generation Enhanced By Code Knowledge Graph
+Authors: Xu H.
+Published: 2025-01-01
+Journal: Proceedings International Conference on Software Engineering
+DOI: 10.1109/ICSE-Companion66252.2025.00079
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105008497196&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 113 ---
+Title: Large Language Model for Verilog Generation with Code-Structure-Guided Reinforcement Learning
+Authors: Wang N.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE International Conference on Llm Aided Design Iclad 2025
+DOI: 10.1109/ICLAD65226.2025.00025
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105015888143&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 114 ---
 Title: Dependable Code Repair with LLMs: AI-Driven Vulnerability Detection and Automated Patching
 Authors: Han S.
 Published: 2025-01-01
@@ -446,7 +1040,25 @@ DOI: 10.1109/PRDC67299.2025.00032
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105029906660&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 49 ---
+--- Paper 115 ---
+Title: Token Sugar: Making Source Code Sweeter for LLMs through Token-Efficient Shorthand
+Authors: Sun Z.
+Published: 2025-01-01
+Journal: Proceedings 2025 40th IEEE ACM International Conference on Automated Software Engineering Ase 2025
+DOI: 10.1109/ASE63991.2025.00201
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034633421&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 116 ---
+Title: LLM-VeriPPA: Power, Performance, and Area Optimization aware Verilog Code Generation with Large Language Models
+Authors: Thorat K.
+Published: 2025-01-01
+Journal: 2025 ACM IEEE 7th Symposium on Machine Learning for CAD Mlcad 2025
+DOI: 10.1109/MLCAD65511.2025.11189158
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020803578&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 117 ---
 Title: Unlocking LLM Security: Automated Penetration Testing and Source Code Review Based on Vulnerability Analysis and NLP
 Authors: Takieldeen A.E.
 Published: 2025-01-01
@@ -455,7 +1067,34 @@ DOI: 10.1109/ITC-Egypt66095.2025.11186635
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020983642&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 50 ---
+--- Paper 118 ---
+Title: Evaluation and Prediction of Human Software Developers’ Perception of Large Language Models Suggestions Using GitHub Data
+Authors: Pimenov A.
+Published: 2025-01-01
+Journal: Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+DOI: 10.1007/978-3-031-78459-0_25
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85219187500&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 119 ---
+Title: Plot2Code: A Comprehensive Benchmark for Evaluating Multi-modal Large Language Models in Code Generation from Scientific Plots
+Authors: Wu C.
+Published: 2025-01-01
+Journal: 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Proceedings of the Conference Findings Naacl 2025
+DOI: 10.18653/v1/2025.findings-naacl.164
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028703080&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 120 ---
+Title: Insights and Analysis of Open-source License Violation Risks in LLMs Generated Code
+Authors: Wang Y.B.
+Published: 2025-01-01
+Journal: Ruan Jian Xue Bao Journal of Software
+DOI: 10.13328/j.cnki.jos.007324
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105005957677&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 121 ---
 Title: ResoFilter: Fine-grained Synthetic Data Filtering for Large Language Models through Data-Parameter Resonance Analysis
 Authors: Tu Z.
 Published: 2025-01-01
@@ -464,7 +1103,25 @@ DOI: 10.18653/v1/2025.findings-naacl.299
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028680806&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 51 ---
+--- Paper 122 ---
+Title: Proof Repair Utilizing Large Language Models: A Case Study on the Copland Remote Attestation Proofbase
+Authors: Tahat A.
+Published: 2025-01-01
+Journal: Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+DOI: 10.1007/978-3-031-75434-0_10
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85215782629&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 123 ---
+Title: DependEval: Benchmarking LLMs for Repository Dependency Understanding
+Authors: Du J.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.findings-acl.373
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028620234&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 124 ---
 Title: IntelliUnitGen: A Unit Test Case Generation Framework Based on the Integration of Static Analysis and Prompt Learning
 Authors: Yang Z.
 Published: 2025-01-01
@@ -473,7 +1130,16 @@ DOI: 10.1109/ACCESS.2025.3615990
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018093457&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 52 ---
+--- Paper 125 ---
+Title: LAMBDA: A Large Model Based Data Agent
+Authors: Maojun S.
+Published: 2025-01-01
+Journal: Journal of the American Statistical Association
+DOI: 10.1080/01621459.2025.2510000
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010848153&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 126 ---
 Title: Multi-Disciplinary Dataset Discovery from Citation-Verified Literature Contexts
 Authors: Tan Z.
 Published: 2025-01-01
@@ -482,7 +1148,70 @@ DOI: 10.1109/JCDL67857.2025.00022
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034046921&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 53 ---
+--- Paper 127 ---
+Title: Coverage-Based Harmfulness Testing for LLM Code Transformation
+Authors: Tan H.
+Published: 2025-01-01
+Journal: Proceedings 2025 40th IEEE ACM International Conference on Automated Software Engineering Ase 2025
+DOI: 10.1109/ASE63991.2025.00086
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034695160&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 128 ---
+Title: NVAGENT: Automated Data Visualization from Natural Language via Collaborative Agent Workflow
+Authors: Ouyang G.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.acl-long.960
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021019780&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 129 ---
+Title: Can Language Models Replace Programmers for Coding? REPOCOD Says 'Not Yet'
+Authors: Liang S.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.acl-long.1204
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021020059&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 130 ---
+Title: REPOGRAPH: ENHANCING AI SOFTWARE ENGINEERING WITH REPOSITORY-LEVEL CODE GRAPH
+Authors: Ouyang S.
+Published: 2025-01-01
+Journal: 13th International Conference on Learning Representations Iclr 2025
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010224966&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 131 ---
+Title: Investigating the Relationship Between Quality and Prompt Specificity in Source Code Generation by LLM
+Authors: Nomoto L.
+Published: 2025-01-01
+Journal: Studies in Computational Intelligence
+DOI: 10.1007/978-3-031-82606-1_7
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009430257&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 132 ---
+Title: GiFT: Gibbs Fine-Tuning for Code Generation
+Authors: Li H.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.acl-long.599
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021060547&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 133 ---
+Title: Evaluating LLMs' Mathematical and Coding Competency through Ontology-guided Interventions
+Authors: Hong P.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.findings-acl.1172
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028642729&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 134 ---
 Title: Cloud-free question answering from internal knowledge bases: Building an AI for drilling applications
 Authors: Zhang L.
 Published: 2025-01-01
@@ -491,7 +1220,16 @@ DOI: 10.3997/1365-2397.fb2025012
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85217195621&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 54 ---
+--- Paper 135 ---
+Title: WAFFLE: Fine-tuning Multi-Modal Model for Automated Front-End Development
+Authors: Liang S.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.acl-long.1208
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021047623&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 136 ---
 Title: CRAFTRTL: HIGH-QUALITY SYNTHETIC DATA GENERATION FOR VERILOG CODE MODELS WITH CORRECT-BY-CONSTRUCTION NON-TEXTUAL REPRESENTATIONS AND TARGETED CODE REPAIR
 Authors: Liu M.
 Published: 2025-01-01
@@ -500,16 +1238,25 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010201050&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 55 ---
-Title: A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding
-Authors: Safa A.
+--- Paper 137 ---
+Title: FEA-Bench: A Benchmark for Evaluating Repository-Level Code Generation for Feature Implementation
+Authors: Li W.
 Published: 2025-01-01
-Journal: Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Human Language Technologies Long Papers Naacl Hlt 2025
-DOI: 10.18653/v1/2025.naacl-long.387
-URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027402637&origin=inward
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.acl-long.839
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021059668&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 56 ---
+--- Paper 138 ---
+Title: AdaptFlow: Adaptive Workflow Optimization via Meta-Learning
+Authors: Zhu R.
+Published: 2025-01-01
+Journal: Emnlp 2025 2025 Conference on Empirical Methods in Natural Language Processing Findings of Emnlp 2025
+DOI: 10.18653/v1/2025.findings-emnlp.175
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028940755&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 139 ---
 Title: Context-Based URL Classification for Open Access Datasets and Software in Scholarly Documents
 Authors: Salsabil L.
 Published: 2025-01-01
@@ -518,7 +1265,16 @@ DOI: 10.1109/JCDL67857.2025.00031
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033932423&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 57 ---
+--- Paper 140 ---
+Title: A Zero-Shot Open-Vocabulary Pipeline for Dialogue Understanding
+Authors: Safa A.
+Published: 2025-01-01
+Journal: Proceedings of the 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Human Language Technologies Long Papers Naacl Hlt 2025
+DOI: 10.18653/v1/2025.naacl-long.387
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027402637&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 141 ---
 Title: Performance Comparison of Prompt Engineering and Fine-Tuning Approaches for Fuzz Driver Generation Using Large Language Models
 Authors: Kim S.
 Published: 2025-01-01
@@ -527,7 +1283,16 @@ DOI: 10.1007/978-3-031-96093-2_12
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010223632&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 58 ---
+--- Paper 142 ---
+Title: A Fully Automated Agent for End-to-End Code Translation and Validation
+Authors: Erer E.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE International Conference on Collaborative Advances in Software and Computing Cascon 2025
+DOI: 10.1109/CASCON66301.2025.00128
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033226705&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 143 ---
 Title: R3-Bench: Reproducible Real-world Reverse Engineering Dataset for Symbol Recovery
 Authors: Yu M.
 Published: 2025-01-01
@@ -536,7 +1301,25 @@ DOI: 10.1109/ASE63991.2025.00026
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034646574&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 59 ---
+--- Paper 144 ---
+Title: A Fully Automated Agent for End-to-End Code Translation and Validation
+Authors: Erer E.
+Published: 2025-01-01
+Journal: International Symposium on Empirical Software Engineering and Measurement
+DOI: 10.1109/ESEM64174.2025.00058
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105032708076&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 145 ---
+Title: Advancing Secure and Standard Source Code Generation Techniques
+Authors: Siddiq M.L.
+Published: 2025-01-01
+Journal: Proceedings International Conference on Software Engineering
+DOI: 10.1109/ICSE-Companion66252.2025.00023
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105008496310&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 146 ---
 Title: Bridging the Editing Gap in LLMs: FineEdit for Precise and Targeted Text Modifications
 Authors: Zeng Y.
 Published: 2025-01-01
@@ -545,7 +1328,16 @@ DOI: 10.18653/v1/2025.findings-emnlp.118
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028997622&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 60 ---
+--- Paper 147 ---
+Title: Fine-Tuning and Evaluating Distilled DeepSeek Models for Code Reasoning
+Authors: Nguyen V.V.
+Published: 2025-01-01
+Journal: Proceedings 2025 19th International Conference on Advanced Computing and Analytics Acompa 2025
+DOI: 10.1109/ACOMPA69200.2025.00013
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034132251&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 148 ---
 Title: Evaluating Efficiency and Novelty of LLM-Generated Code for Graph Analysis
 Authors: Nia A.B.
 Published: 2025-01-01
@@ -554,7 +1346,16 @@ DOI: 10.1109/HPEC67600.2025.11196094
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021463903&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 61 ---
+--- Paper 149 ---
+Title: Code Ranking with Structure Awareness Contrastive Learning
+Authors: Huang H.
+Published: 2025-01-01
+Journal: IEEE International Conference on Program Comprehension
+DOI: 10.1109/ICPC66645.2025.00053
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009063509&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 150 ---
 Title: HumanEvo: An Evolution-Aware Benchmark for More Realistic Evaluation of Repository-Level Code Generation
 Authors: Zheng D.
 Published: 2025-01-01
@@ -563,7 +1364,16 @@ DOI: 10.1109/ICSE55347.2025.00228
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010310562&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 62 ---
+--- Paper 151 ---
+Title: Teacher-Guided Code Generation With API Update
+Authors: Sun T.
+Published: 2025-01-01
+Journal: Conference Proceedings IEEE International Conference on Systems Man and Cybernetics
+DOI: 10.1109/SMC58881.2025.11342663
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033153463&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 152 ---
 Title: NIODebugger: A Novel Approach to Repair Non-Idempotent-Outcome Tests with LLM-Based Agent
 Authors: Ke K.
 Published: 2025-01-01
@@ -572,7 +1382,16 @@ DOI: 10.1109/ICSE55347.2025.00226
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010297534&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 63 ---
+--- Paper 153 ---
+Title: A search-and-fill strategy to code generation for complex software requirements
+Authors: Dong Y.
+Published: 2025-01-01
+Journal: Information and Software Technology
+DOI: 10.1016/j.infsof.2024.107584
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205938831&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 154 ---
 Title: Privacy-, linguistic-, and information-preserving synthesis of clinical documentation through generative agents
 Authors: van Velzen M.
 Published: 2025-01-01
@@ -581,7 +1400,7 @@ DOI: 10.3389/frai.2025.1644084
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018229039&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 64 ---
+--- Paper 155 ---
 Title: CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark
 Authors: Siegel Z.S.
 Published: 2025-01-01
@@ -590,7 +1409,25 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85219569769&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 65 ---
+--- Paper 156 ---
+Title: AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology
+Authors: Nguyen M.H.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE ACM 2nd International Conference on AI Foundation Models and Software Engineering Forge 2025
+DOI: 10.1109/Forge66646.2025.00026
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011365114&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 157 ---
+Title: GeCoIn 2025 - Proceedings of the Generative Code Intelligence Workshop, co-located with 28th European Conference on Artificial Intelligence, ECAI 2025
+Authors: Unknown
+Published: 2025-01-01
+Journal: Ceur Workshop Proceedings
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020728916&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 158 ---
 Title: Generative AI for Reproducible Research in Control, Automation and Robotics
 Authors: Cervera E.
 Published: 2025-01-01
@@ -599,7 +1436,7 @@ DOI: 10.1109/ICCAR64901.2025.11072983
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105013082291&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 66 ---
+--- Paper 159 ---
 Title: UFO: A UI-Focused Agent for Windows OS Interaction
 Authors: Zhang C.
 Published: 2025-01-01
@@ -608,7 +1445,88 @@ DOI: 10.18653/v1/2025.naacl-long.26
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027445822&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 67 ---
+--- Paper 160 ---
+Title: A Model-Driven Approach Employing DSL and Generation Templates to Accelerate the Development of Conversational Agents for Smart Tourism
+Authors: Ouaddi C.
+Published: 2025-01-01
+Journal: IEEE Access
+DOI: 10.1109/ACCESS.2025.3574641
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105006928282&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 161 ---
+Title: On the Impacts of Contexts on Repository-Level Code Generation
+Authors: Le Hai N.
+Published: 2025-01-01
+Journal: 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics Proceedings of the Conference Findings Naacl 2025
+DOI: 10.18653/v1/2025.findings-naacl.82
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028765296&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 162 ---
+Title: CodeDPO: Aligning Code Models with Self Generated and Verified Source Code
+Authors: Zhang K.
+Published: 2025-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2025.acl-long.771
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021053211&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 163 ---
+Title: LLM-Driven MDA Pipeline for Generating UML Class Diagrams and Code
+Authors: Babaalla Z.
+Published: 2025-01-01
+Journal: IEEE Access
+DOI: 10.1109/ACCESS.2025.3615828
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018096264&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 164 ---
+Title: Detecting and Mitigating Inconsistencies between Code, Documentation and Tests
+Authors: Kiecker T.
+Published: 2025-01-01
+Journal: Proceedings 2025 40th IEEE ACM International Conference on Automated Software Engineering Ase 2025
+DOI: 10.1109/ASE63991.2025.00397
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034636589&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 165 ---
+Title: 9th International Conference on Modelling and Development of Intelligent Systems, MDIS 2024
+Authors: Unknown
+Published: 2025-01-01
+Journal: Communications in Computer and Information Science
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105005933756&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 166 ---
+Title: VisualFusion: Enhancing Blog Content with Advanced Infographic Pipeline
+Authors: Deo A.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE Winter Conference on Applications of Computer Vision Wacv 2025
+DOI: 10.1109/WACV61041.2025.00546
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105003639690&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 167 ---
+Title: An AI-powered pipeline for enabling Self-Healing in Software Systems
+Authors: Siachamis G.
+Published: 2025-01-01
+Journal: Proceedings of the 2025 IEEE International Conference on Cyber Security and Resilience Csr 2025
+DOI: 10.1109/CSR64739.2025.11130137
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105016111940&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 168 ---
+Title: PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)
+Authors: Nazzal M.
+Published: 2024-12-09
+Journal: Ccs 2024 Proceedings of the 2024 ACM Sigsac Conference on Computer and Communications Security
+DOI: 10.1145/3658644.3690298
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85215532935&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 169 ---
 Title: I2P Registration by Learning the Underlying Alignment Feature Space from Pixel-to-Point Similarities
 Authors: Sun Y.
 Published: 2024-11-26
@@ -617,7 +1535,16 @@ DOI: 10.1145/3697839
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85217850588&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 68 ---
+--- Paper 170 ---
+Title: White-box LLM-supported Low-code Engineering: A Vision and First Insights
+Authors: Buchmann T.
+Published: 2024-10-31
+Journal: Proceedings Models 2024 ACM IEEE 27th International Conference on Model Driven Engineering Languages and Systems Companion Proceedings
+DOI: 10.1145/3652620.3687803
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85212207684&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 171 ---
 Title: AutoDW: Automatic Data Wrangling Leveraging Large Language Models
 Authors: Liu L.
 Published: 2024-10-27
@@ -626,7 +1553,34 @@ DOI: 10.1145/3691620.3695267
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85212411533&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 69 ---
+--- Paper 172 ---
+Title: Contextualized Data-Wrangling Code Generation in Computational Notebooks
+Authors: Huang J.
+Published: 2024-10-27
+Journal: Proceedings 2024 39th ACM IEEE International Conference on Automated Software Engineering Ase 2024
+DOI: 10.1145/3691620.3695503
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85212435047&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 173 ---
+Title: PACGBI: A Pipeline for Automated Code Generation from Backlog Items
+Authors: Sarschar M.
+Published: 2024-10-27
+Journal: Proceedings 2024 39th ACM IEEE International Conference on Automated Software Engineering Ase 2024
+DOI: 10.1145/3691620.3695346
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85212439420&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 174 ---
+Title: WhiteFox: White-Box Compiler Fuzzing Empowered by Large Language Models
+Authors: Yang C.
+Published: 2024-10-08
+Journal: Proceedings of the ACM on Programming Languages
+DOI: 10.1145/3689736
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85208274724&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 175 ---
 Title: FoodAtlas: Automated knowledge extraction of food and chemicals from literature
 Authors: Youn J.
 Published: 2024-10-01
@@ -635,7 +1589,7 @@ DOI: 10.1016/j.compbiomed.2024.109072
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85202569044&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 70 ---
+--- Paper 176 ---
 Title: Open Source Code Contributions to Global Health: The Case of Antimalarial Drug Discovery
 Authors: Turon G.
 Published: 2024-09-12
@@ -644,7 +1598,7 @@ DOI: 10.1021/acsmedchemlett.4c00131
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85200572617&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 71 ---
+--- Paper 177 ---
 Title: SelfPiCo: Self-Guided Partial Code Execution with LLMs
 Authors: Xue Z.
 Published: 2024-09-11
@@ -653,7 +1607,25 @@ DOI: 10.1145/3650212.3680368
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85203815555&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 72 ---
+--- Paper 178 ---
+Title: LLM-based Control Code Generation using Image Recognition
+Authors: Koziolek H.
+Published: 2024-09-10
+Journal: Proceedings 2024 International Workshop on Large Language Models for Code Llm4code 2024
+DOI: 10.1145/3643795.3648385
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85194317024&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 179 ---
+Title: Toward a New Era of Rapid Development: Assessing GPT-4-Vision's Capabilities in UML-Based Code Generation
+Authors: Antal G.
+Published: 2024-09-10
+Journal: Proceedings 2024 International Workshop on Large Language Models for Code Llm4code 2024
+DOI: 10.1145/3643795.3648391
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205894740&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 180 ---
 Title: TRANSFORMER-BASED MODELS APPLICATION FOR BUG DETECTION IN SOURCE CODE
 Authors: Vokhranov I.
 Published: 2024-08-31
@@ -662,7 +1634,16 @@ DOI: 10.15587/2706-5448.2024.310822
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011867331&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 73 ---
+--- Paper 181 ---
+Title: Transformers in source code generation: A comprehensive survey
+Authors: Ghaemi H.
+Published: 2024-08-01
+Journal: Journal of Systems Architecture
+DOI: 10.1016/j.sysarc.2024.103193
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85196029331&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 182 ---
 Title: LIReDroid: LLM-Enhanced Test Case Generation for Static Sensitive Behavior Replication
 Authors: Wang Y.
 Published: 2024-07-24
@@ -671,7 +1652,52 @@ DOI: 10.1145/3671016.3671404
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85200901547&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 74 ---
+--- Paper 183 ---
+Title: Do Large Language Models Generate Similar Codes from Mutated Prompts? A Case Study of Gemini Pro
+Authors: Patel H.
+Published: 2024-07-10
+Journal: Fse Companion Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering
+DOI: 10.1145/3663529.3663873
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85199068248&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 184 ---
+Title: Unveiling the Potential of a Conversational Agent in Developer Support: Insights from Mozilla's PDF.js Project
+Authors: Correia J.
+Published: 2024-07-10
+Journal: Aiware 2024 Proceedings of the 1st ACM International Conference on AI Powered Software Co Located with Esec Fse 2024
+DOI: 10.1145/3664646.3664758
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85199904763&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 185 ---
+Title: Guidelines for the Evolving Role of Generative AI in Introductory Programming Based on Emerging Practice
+Authors: Mahon J.
+Published: 2024-07-03
+Journal: Annual Conference on Innovation and Technology in Computer Science Education Iticse
+DOI: 10.1145/3649217.3653602
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85198903336&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 186 ---
+Title: Write me this Code: An Analysis of ChatGPT Quality for Producing Source Code
+Authors: Moratis K.
+Published: 2024-07-02
+Journal: Proceedings 2024 IEEE ACM 21st International Conference on Mining Software Repositories MSR 2024
+DOI: 10.1145/3643991.3645070
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85197448489&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 187 ---
+Title: DevGPT: Studying Developer-ChatGPT Conversations
+Authors: Xiao T.
+Published: 2024-07-02
+Journal: Proceedings 2024 IEEE ACM 21st International Conference on Mining Software Repositories MSR 2024
+DOI: 10.1145/3643991.3648400
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85197397508&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 188 ---
 Title: Proceedings - 2024 IEEE/ACM 21st International Conference on Mining Software Repositories, MSR 2024
 Authors: Unknown
 Published: 2024-07-02
@@ -680,7 +1706,43 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85197385972&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 75 ---
+--- Paper 189 ---
+Title: A Two-Stage Code Generation Method using Large Language Models
+Authors: Zhao D.
+Published: 2024-07-01
+Journal: International Journal of Performability Engineering
+DOI: 10.23940/ijpe.24.07.p6.460467
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85207516025&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 190 ---
+Title: Agent-Driven Automatic Software Improvement
+Authors: Vallecillos Ruiz F.
+Published: 2024-06-18
+Journal: ACM International Conference Proceeding Series
+DOI: 10.1145/3661167.3661171
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85197452583&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 191 ---
+Title: "you're on a bicycle with a little motor": Benefits and Challenges of Using AI Code Assistants
+Authors: Mendes W.
+Published: 2024-06-12
+Journal: Proceedings 2024 IEEE ACM 17th International Conference on Cooperative and Human Aspects of Software Engineering Chase 2024
+DOI: 10.1145/3641822.3641882
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85196540860&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 192 ---
+Title: Using GitHub Copilot for Test Generation in Python: An Empirical Study
+Authors: El Haji K.
+Published: 2024-06-10
+Journal: Proceedings 2024 IEEE ACM International Conference on Automation of Software Test Ast 2024
+DOI: 10.1145/3644032.3644443
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85196127951&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 193 ---
 Title: Poster: Efficient and Accurate Mobile Task Automation through Learning from Code
 Authors: Wang S.
 Published: 2024-06-04
@@ -689,7 +1751,70 @@ DOI: 10.1145/3643832.3661397
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85196221449&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 76 ---
+--- Paper 194 ---
+Title: Can Large Language Models Write Parallel Code?
+Authors: Nichols D.
+Published: 2024-06-03
+Journal: Hpdc 2024 Proceedings of the 33rd International Symposium on High Performance Parallel and Distributed Computing
+DOI: 10.1145/3625549.3658689
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85204938381&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 195 ---
+Title: No Need to Lift a Finger Anymore? Assessing the Quality of Code Generation by ChatGPT
+Authors: Liu Z.
+Published: 2024-06-01
+Journal: IEEE Transactions on Software Engineering
+DOI: 10.1109/TSE.2024.3392499
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85191330544&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 196 ---
+Title: Studying the Quality of Source Code Generated by Different AI Generative Engines: An Empirical Evaluation
+Authors: Tosi D.
+Published: 2024-06-01
+Journal: Future Internet
+DOI: 10.3390/fi16060188
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85197181777&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 197 ---
+Title: Beyond Accuracy: Evaluating Source Code Capabilities in Large Language Models for Software Engineering
+Authors: Velasco A.
+Published: 2024-05-23
+Journal: Proceedings International Conference on Software Engineering
+DOI: 10.1145/3639478.3639815
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85194891058&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 198 ---
+Title: Are Prompt Engineering and TODO Comments Friends or Foes? An Evaluation on GitHub Copilot
+Authors: Obrien D.
+Published: 2024-05-20
+Journal: Proceedings International Conference on Software Engineering
+DOI: 10.1145/3597503.3639176
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85185371579&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 199 ---
+Title: On Evaluating the Efficiency of Source Code Generated by LLMs
+Authors: Niu C.
+Published: 2024-04-14
+Journal: Proceedings 2024 IEEE ACM 1st International Conference on AI Foundation Models and Software Engineering Forge 2024
+DOI: 10.1145/3650105.3652295
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85197070284&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 200 ---
+Title: Exploring the Potential of Pre-Trained Language Models of Code for Automated Program Repair
+Authors: Hao S.
+Published: 2024-04-01
+Journal: Electronics Switzerland
+DOI: 10.3390/electronics13071200
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85189971922&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 201 ---
 Title: Equity-Transformer: Solving NP-Hard Min-Max Routing Problems as Sequential Generation with Equity Context
 Authors: Son J.
 Published: 2024-03-25
@@ -698,7 +1823,7 @@ DOI: 10.1609/aaai.v38i18.30007
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85189519612&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 77 ---
+--- Paper 202 ---
 Title: Examples out of Thin Air: AI-Generated Dynamic Context to Assist Program Comprehension by Example
 Authors: Mattis T.
 Published: 2024-03-11
@@ -707,7 +1832,16 @@ DOI: 10.1145/3660829.3660845
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85199074064&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 78 ---
+--- Paper 203 ---
+Title: Towards Automatic Code Generation for Robotic Soccer Behavior Simulation
+Authors: Sales R.
+Published: 2024-03-01
+Journal: Journal of Intelligent and Robotic Systems Theory and Applications
+DOI: 10.1007/s10846-023-02036-5
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85182850027&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 204 ---
 Title: The Monarch Initiative in 2024:ãnãnalytic platform integrating phenotypes, g enesãnd diseasesãcross species
 Authors: Putman T.E.
 Published: 2024-01-05
@@ -716,7 +1850,7 @@ DOI: 10.1093/nar/gkad1082
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85181766041&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 79 ---
+--- Paper 205 ---
 Title: A Framework for Security Testing of Large Language Models
 Authors: Traykov K.
 Published: 2024-01-01
@@ -725,7 +1859,88 @@ DOI: 10.1109/IS61756.2024.10705238
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85208429249&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 80 ---
+--- Paper 206 ---
+Title: FaultLLAMA2: A Fine Tuned Large Language Model for Code Recommendations to Reduce Java Lock Contention
+Authors: Shawon A.
+Published: 2024-01-01
+Journal: Cascon 2024 Proceedings 34th Annual International Conference on Collaborative Advances in Software and Computing
+DOI: 10.1109/CASCON62161.2024.10837708
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85217654064&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 207 ---
+Title: Leveraging RAG-LLM to Translate C++ to Rust
+Authors: Okutan A.
+Published: 2024-01-01
+Journal: Proceedings 2024 International Conference on Assured Autonomy Icaa 2024
+DOI: 10.1109/ICAA64256.2024.00024
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85213997687&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 208 ---
+Title: Requirements Verification Through the Analysis of Source Code by Large Language Models
+Authors: Couder J.O.
+Published: 2024-01-01
+Journal: Conference Proceedings IEEE SOUTHEASTCON
+DOI: 10.1109/SoutheastCon52093.2024.10500073
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85191742945&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 209 ---
+Title: FragRel: Exploiting Fragment-level Relations in the External Memory of Large Language Models
+Authors: Yue X.
+Published: 2024-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2024.findings-acl.968
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205304139&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 210 ---
+Title: HPC-Coder: Modeling Parallel Programs using Large Language Models
+Authors: Nichols D.
+Published: 2024-01-01
+Journal: Research Paper Proceedings of the Isc High Performance 2024
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85195155876&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 211 ---
+Title: Franc: A Lightweight Framework for High-Quality Code Generation
+Authors: Siddiq M.L.
+Published: 2024-01-01
+Journal: Proceedings 2024 IEEE International Conference on Source Code Analysis and Manipulation Scam 2024
+DOI: 10.1109/SCAM63643.2024.00020
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85215284700&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 212 ---
+Title: WaveCoder: Widespread And Versatile Enhancement For Code Large Language Models By Instruction Tuning
+Authors: Yu Z.
+Published: 2024-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2024.acl-long.280
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85204476184&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 213 ---
+Title: Methodology for Code Synthesis Evaluation of LLMs Presented by a Case Study of ChatGPT and Copilot
+Authors: Sagodi Z.
+Published: 2024-01-01
+Journal: IEEE Access
+DOI: 10.1109/ACCESS.2024.3403858
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85194067257&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 214 ---
+Title: Analyzing the Performance of Large Language Models on Code Summarization
+Authors: Haldar R.
+Published: 2024-01-01
+Journal: 2024 Joint International Conference on Computational Linguistics Language Resources and Evaluation Lrec Coling 2024 Main Conference Proceedings
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85195952398&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 215 ---
 Title: Binary Malware Attribution using LLM Embeddings and Topological Data Analysis
 Authors: MacDonald K.
 Published: 2024-01-01
@@ -734,7 +1949,7 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85218408360&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 81 ---
+--- Paper 216 ---
 Title: ChatCAD+: Toward a Universal and Reliable Interactive CAD Using LLMs
 Authors: Zhao Z.
 Published: 2024-01-01
@@ -743,7 +1958,34 @@ DOI: 10.1109/TMI.2024.3398350
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85192785098&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 82 ---
+--- Paper 217 ---
+Title: WizardCoder: EMPOWERING CODE LARGE LANGUAGE MODELS WITH EVOL-INSTRUCT
+Authors: Luo Z.
+Published: 2024-01-01
+Journal: 12th International Conference on Learning Representations Iclr 2024
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85194331475&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 218 ---
+Title: A Novel Instruction Tuning Method for Vietnamese Mathematical Reasoning using Trainable Open-Source Large Language Models
+Authors: Nguyen Q.V.
+Published: 2024-01-01
+Journal: Conll 2024 28th Conference on Computational Natural Language Learning Proceedings of the Conference
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85215533297&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 219 ---
+Title: An Approach for Rapid Source Code Development Based on ChatGPT and Prompt Engineering
+Authors: Li Y.
+Published: 2024-01-01
+Journal: IEEE Access
+DOI: 10.1109/ACCESS.2024.3385682
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85190166927&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 220 ---
 Title: JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models
 Authors: Chao P.
 Published: 2024-01-01
@@ -752,7 +1994,25 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105000482262&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 83 ---
+--- Paper 221 ---
+Title: Rewriting the Code: A Simple Method for Large Language Model Augmented Code Search
+Authors: Li H.
+Published: 2024-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2024.acl-long.75
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85204450728&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 222 ---
+Title: LLM vs HLS for RTL Code Generation: Friend or Foe?
+Authors: Bhattacharyya S.
+Published: 2024-01-01
+Journal: Proceedings of the Asian Test Symposium
+DOI: 10.1109/ATS64447.2024.10915452
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105001145279&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 223 ---
 Title: An Adaptable AI Assistant for Network Management
 Authors: Abane A.
 Published: 2024-01-01
@@ -761,7 +2021,7 @@ DOI: 10.1109/NOMS59830.2024.10574957
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85198367006&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 84 ---
+--- Paper 224 ---
 Title: MARIO: MAth Reasoning with code Interpreter Output - A Reproducible Pipeline
 Authors: Liao M.
 Published: 2024-01-01
@@ -770,7 +2030,7 @@ DOI: 10.18653/v1/2024.findings-acl.53
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205284070&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 85 ---
+--- Paper 225 ---
 Title: Code Repair with LLMs gives an Exploration-Exploitation Tradeoff
 Authors: Tang H.
 Published: 2024-01-01
@@ -779,7 +2039,16 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105000538945&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 86 ---
+--- Paper 226 ---
+Title: Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback
+Authors: Bi Z.
+Published: 2024-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2024.findings-acl.138
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205290730&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 227 ---
 Title: GPTs Are Multilingual Annotators for Sequence Generation Tasks
 Authors: Choi J.
 Published: 2024-01-01
@@ -788,7 +2057,25 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85188665340&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 87 ---
+--- Paper 228 ---
+Title: Representation and Generation of Machine Learning Test Functions
+Authors: Hassine S.B.
+Published: 2024-01-01
+Journal: Eacl 2024 18th Conference of the European Chapter of the Association for Computational Linguistics Proceedings of the Student Research Workshop
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85188724764&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 229 ---
+Title: CODEAGENT: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges
+Authors: Zhang K.
+Published: 2024-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2024.acl-long.737
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85204422336&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 230 ---
 Title: UP5: Unbiased Foundation Model for Fairness-aware Recommendation
 Authors: Hua W.
 Published: 2024-01-01
@@ -797,7 +2084,79 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85187774453&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 88 ---
+--- Paper 231 ---
+Title: Fight Fire With Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?
+Authors: Yu X.
+Published: 2024-01-01
+Journal: IEEE Transactions on Software Engineering
+DOI: 10.1109/TSE.2024.3492204
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85208721822&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 232 ---
+Title: OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement
+Authors: Zheng T.
+Published: 2024-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2024.findings-acl.762
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205307973&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 233 ---
+Title: AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data
+Authors: Song Z.
+Published: 2024-01-01
+Journal: Advances in Neural Information Processing Systems
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105000537583&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 234 ---
+Title: Magicoder: Empowering Code Generation with OSS-INSTRUCT
+Authors: Wei Y.
+Published: 2024-01-01
+Journal: Proceedings of Machine Learning Research
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85203825308&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 235 ---
+Title: AMR-Evol: Adaptive Modular Response Evolution Elicits Better Knowledge Distillation for Large Language Models in Code Generation
+Authors: Luo Z.
+Published: 2024-01-01
+Journal: Emnlp 2024 2024 Conference on Empirical Methods in Natural Language Processing Proceedings of the Conference
+DOI: 10.18653/v1/2024.emnlp-main.66
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85217761655&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 236 ---
+Title: DevEval: A Manually-Annotated Code Generation Benchmark Aligned with Real-World Code Repositories
+Authors: Li J.
+Published: 2024-01-01
+Journal: Proceedings of the Annual Meeting of the Association for Computational Linguistics
+DOI: 10.18653/v1/2024.findings-acl.214
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85205305508&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 237 ---
+Title: EFFI-LEARNER: Enhancing Efficiency of Generated Code via Self-Optimization
+Authors: Huang D.
+Published: 2024-01-01
+Journal: Advances in Neural Information Processing Systems
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105000467956&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 238 ---
+Title: EFFIBENCH: Benchmarking the Efficiency of Automatically Generated Code
+Authors: Huang D.
+Published: 2024-01-01
+Journal: Advances in Neural Information Processing Systems
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105000533516&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 239 ---
 Title: Tiny Time Mixers (TTMs): Fast Pre-trained Models for Enhanced Zero/Few-shot Forecasting of Multivariate Time Series
 Authors: Ekambaram V.
 Published: 2024-01-01
@@ -806,7 +2165,16 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105000522546&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 89 ---
+--- Paper 240 ---
+Title: LLMs in Web Development: Evaluating LLM-Generated PHP Code Unveiling Vulnerabilities and Limitations
+Authors: Tóth R.
+Published: 2024-01-01
+Journal: Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+DOI: 10.1007/978-3-031-68738-9_34
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85204532790&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 241 ---
 Title: CLEANBA: A REPRODUCIBLE AND EFFICIENT DISTRIBUTED REINFORCEMENT LEARNING PLATFORM
 Authors: Huang S.
 Published: 2024-01-01
@@ -815,7 +2183,34 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85200561042&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 90 ---
+--- Paper 242 ---
+Title: A3-CodGen: A Repository-Level Code Generation Framework for Code Reuse With Local-Aware, Global-Aware, and Third-Party-Library-Aware
+Authors: Liao D.
+Published: 2024-01-01
+Journal: IEEE Transactions on Software Engineering
+DOI: 10.1109/TSE.2024.3486195
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85207889505&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 243 ---
+Title: Extracting REST API Endpoints from Microservices Using LLM Agents
+Authors: Chaplia O.
+Published: 2024-01-01
+Journal: Proceedings 2024 14th International Conference on Dependable Systems Services and Technologies Trustworthy AI Internet of Robotics and Big Data for A Safe and Secure World Dessert 2024
+DOI: 10.1109/DESSERT65323.2024.11122242
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105015977865&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 244 ---
+Title: LEDEX: Training LLMs to Better Self-Debug and Explain Code
+Authors: Jiang N.
+Published: 2024-01-01
+Journal: Advances in Neural Information Processing Systems
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105000545593&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 245 ---
 Title: Beware of Data Leakage from Protein LLM Pretraining
 Authors: Hermann L.
 Published: 2024-01-01
@@ -824,7 +2219,16 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85216927184&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 91 ---
+--- Paper 246 ---
+Title: The Robots are Here: Navigating the Generative AI Revolution in Computing Education
+Authors: Prather J.
+Published: 2023-12-22
+Journal: Iticse Wgr 2023 Proceedings of the 2023 Working Group Reports on Innovation and Technology in Computer Science Education
+DOI: 10.1145/3623762.3633499
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85177810142&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 247 ---
 Title: Facilitating Experimental Reproducibility in Neural Network Research with a Unified Framework
 Authors: Kaimakamidis A.
 Published: 2023-12-04
@@ -833,7 +2237,25 @@ DOI: 10.1145/3632366.3632368
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85192160682&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 92 ---
+--- Paper 248 ---
+Title: LLM-Based Code Generation Method for Golang Compiler Testing
+Authors: Gu Q.
+Published: 2023-11-30
+Journal: Esec Fse 2023 Proceedings of the 31st ACM Joint Meeting European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+DOI: 10.1145/3611643.3617850
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85180556842&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 249 ---
+Title: “It’s Weird That it Knows What I Want”: Usability and Interactions with Copilot for Novice Programmers
+Authors: Prather J.
+Published: 2023-11-29
+Journal: ACM Transactions on Computer Human Interaction
+DOI: 10.1145/3617367
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85173838298&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 250 ---
 Title: GPT-3-Powered Type Error Debugging: Investigating the Use of Large Language Models for Code Repair
 Authors: Ribeiro F.
 Published: 2023-10-23
@@ -842,7 +2264,7 @@ DOI: 10.1145/3623476.3623522
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85177612252&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 93 ---
+--- Paper 251 ---
 Title: GAT-MF: Graph Attention Mean Field for Very Large Scale Multi-Agent Reinforcement Learning
 Authors: Hao Q.
 Published: 2023-08-04
@@ -851,7 +2273,7 @@ DOI: 10.1145/3580305.3599359
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85171324135&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 94 ---
+--- Paper 252 ---
 Title: Large Language Models are Versatile Decomposers: Decomposing Evidence and Questions for Table-based Reasoning
 Authors: Ye Y.
 Published: 2023-07-18
@@ -860,7 +2282,70 @@ DOI: 10.1145/3539618.3591708
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85168711083&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 95 ---
+--- Paper 253 ---
+Title: Evaluating the Performance of Code Generation Models for Solving Parsons Problems with Small Prompt Variations
+Authors: Reeves B.
+Published: 2023-06-29
+Journal: Annual Conference on Innovation and Technology in Computer Science Education Iticse
+DOI: 10.1145/3587102.3588805
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85166269580&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 254 ---
+Title: Can Large Language Models Assist in Hazard Analysis?
+Authors: Diemert S.
+Published: 2023-01-01
+Journal: Lecture Notes in Computer Science Including Subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics
+DOI: 10.1007/978-3-031-40953-0_35
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85172416490&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 255 ---
+Title: How Secure is Code Generated by ChatGPT?
+Authors: Khoury R.
+Published: 2023-01-01
+Journal: Conference Proceedings IEEE International Conference on Systems Man and Cybernetics
+DOI: 10.1109/SMC53992.2023.10394237
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85187253682&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 256 ---
+Title: ChatGPT for PLC/DCS Control Logic Generation
+Authors: Koziolek H.
+Published: 2023-01-01
+Journal: IEEE International Conference on Emerging Technologies and Factory Automation ETFA
+DOI: 10.1109/ETFA54631.2023.10275411
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85175444119&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 257 ---
+Title: PaLM: Scaling Language Modeling with Pathways
+Authors: Chowdhery A.
+Published: 2023-01-01
+Journal: Journal of Machine Learning Research
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85209686161&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 258 ---
+Title: Benchmarking Causal Study to Interpret Large Language Models for Source Code
+Authors: Rodriguez-Cardenas D.
+Published: 2023-01-01
+Journal: Proceedings 2023 IEEE International Conference on Software Maintenance and Evolution Icsme 2023
+DOI: 10.1109/ICSME58846.2023.00040
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85181540936&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 259 ---
+Title: Conceptual model interpreter for Large Language Models
+Authors: Härer F.
+Published: 2023-01-01
+Journal: Ceur Workshop Proceedings
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85184349550&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 260 ---
 Title: Can Large Language Models Reason about Program Invariants?
 Authors: Pei K.
 Published: 2023-01-01
@@ -869,7 +2354,34 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85169033695&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 96 ---
+--- Paper 261 ---
+Title: ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We?
+Authors: Fu M.
+Published: 2023-01-01
+Journal: Proceedings Asia Pacific Software Engineering Conference APSEC
+DOI: 10.1109/APSEC60848.2023.00085
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85184866969&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 262 ---
+Title: The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation
+Authors: Manh D.N.
+Published: 2023-01-01
+Journal: 3rd Workshop for Natural Language Processing Open Source Software Nlp Oss 2023 Proceedings of the Workshop
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85184998945&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 263 ---
+Title: A Closer Look at Different Difficulty Levels Code Generation Abilities of ChatGPT
+Authors: Yan D.
+Published: 2023-01-01
+Journal: Proceedings 2023 38th IEEE ACM International Conference on Automated Software Engineering Ase 2023
+DOI: 10.1109/ASE56229.2023.00096
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85178996993&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 264 ---
 Title: Empowering Knowledge Discovery from Scientific Literature: A novel approach to Research Artifact Analysis
 Authors: Stavropoulos P.
 Published: 2023-01-01
@@ -878,7 +2390,52 @@ DOI: 10.18653/v1/2023.nlposs-1.5
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85185004780&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 97 ---
+--- Paper 265 ---
+Title: CodeT5+: Open Code Large Language Models for Code Understanding and Generation
+Authors: Wang Y.
+Published: 2023-01-01
+Journal: Emnlp 2023 2023 Conference on Empirical Methods in Natural Language Processing Proceedings
+DOI: 10.18653/v1/2023.emnlp-main.68
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85182806484&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 266 ---
+Title: PwnPilot: Reflections on Trusting Trust in the Age of Large Language Models and AI Code Assistants
+Authors: Horne D.
+Published: 2023-01-01
+Journal: Proceedings 2023 Congress in Computer Science Computer Engineering and Applied Computing Csce 2023
+DOI: 10.1109/CSCE60160.2023.00396
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85191174335&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 267 ---
+Title: Outline, Then Details: Syntactically Guided Coarse-To-Fine Code Generation
+Authors: Zheng W.
+Published: 2023-01-01
+Journal: Proceedings of Machine Learning Research
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85174407769&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 268 ---
+Title: GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding
+Authors: Diera A.
+Published: 2023-01-01
+Journal: Genbench 2023 Genbench 1st Workshop on Generalisation Benchmarking in Nlp Proceedings
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85184520526&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 269 ---
+Title: CODEIPPROMPT: Intellectual Property Infringement Assessment of Code Language Models
+Authors: Yu Z.
+Published: 2023-01-01
+Journal: Proceedings of Machine Learning Research
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85168993146&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 270 ---
 Title: An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code
 Authors: Hort M.
 Published: 2023-01-01
@@ -887,7 +2444,25 @@ DOI: 10.1109/ESEM56168.2023.10304803
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85174881692&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 98 ---
+--- Paper 271 ---
+Title: How Readable is Model-generated Code? Examining Readability and Visual Inspection of GitHub Copilot
+Authors: Al Madi N.
+Published: 2022-09-19
+Journal: ACM International Conference Proceeding Series
+DOI: 10.1145/3551349.3560438
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85146925100&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 272 ---
+Title: Language Models of Code are Few-Shot Commonsense Learners
+Authors: Madaan A.
+Published: 2022-01-01
+Journal: Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing Emnlp 2022
+DOI: 10.18653/v1/2022.emnlp-main.90
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85143674698&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 273 ---
 Title: CVIDS: A Collaborative Localization and Dense Mapping Framework for Multi-Agent Based Visual-Inertial SLAM
 Authors: Zhang T.
 Published: 2022-01-01
@@ -896,7 +2471,7 @@ DOI: 10.1109/TIP.2022.3213189
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85140417386&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 99 ---
+--- Paper 274 ---
 Title: ABS-MindBurnout: An agent-based simulator of the effects of mindfulness-based interventions on job burnout
 Authors: García-Magariño I.
 Published: 2019-09-01
@@ -905,7 +2480,25 @@ DOI: 10.1016/j.jocs.2019.06.009
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073704916&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 100 ---
+--- Paper 275 ---
+Title: Toward imitating visual attention of experts in software development tasks
+Authors: Ikutani Y.
+Published: 2019-05-01
+Journal: Proceedings 2019 IEEE ACM 6th International Workshop on Eye Movements in Programming Emip 2019
+DOI: 10.1109/EMIP.2019.00013
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85073418102&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 276 ---
+Title: ENASE 2017 - Proceedings of the 12th International Conference on Evaluation of Novel Approaches to Software Engineering
+Authors: Unknown
+Published: 2017-01-01
+Journal: Enase 2017 Proceedings of the 12th International Conference on Evaluation of Novel Approaches to Software Engineering
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025478004&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 277 ---
 Title: An integrated multi-agent testing tool for security checking of agent-based web applications
 Authors: Eassa F.E.
 Published: 2014-01-01
@@ -914,12 +2507,75 @@ DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84896933313&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 101 ---
+--- Paper 278 ---
+Title: Designing multi-agent unit tests using systematic test design patterns-(extended version)
+Authors: Khamis M.A.
+Published: 2013-01-01
+Journal: Engineering Applications of Artificial Intelligence
+DOI: 10.1016/j.engappai.2013.04.009
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84888352389&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 279 ---
+Title: Designing multi-agent unit tests using systematic test design patterns
+Authors: Nagi K.M.
+Published: 2011-12-01
+Journal: Proceedings of the Iadis International Conference Intelligent Systems and Agents 2011 Part of the Iadis Multi Conference on Computer Science and Information Systems 2011 Mccsis 2011
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84865088554&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 280 ---
+Title: A multiagents system to create control agents
+Authors: Aguilar J.
+Published: 2010-01-01
+Journal: Applied Artificial Intelligence
+DOI: 10.1080/08839514.2010.499498
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=77956381633&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 281 ---
 Title: A multi-agent debugging extension architecture
 Authors: Al-Sharif Z.
 Published: 2009-12-01
 Journal: Proceedings of the 21st International Conference on Software Engineering and Knowledge Engineering Seke 2009
 DOI: No DOI
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=78149351822&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 282 ---
+Title: MASITS – A tool for multi-agent based intelligent tutoring system development
+Authors: Lavendelis E.
+Published: 2009-01-01
+Journal: Advances in Intelligent and Soft Computing
+DOI: 10.1007/978-3-642-00487-2_52
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85006367935&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 283 ---
+Title: Development of a code generation system for control agents
+Authors: Aguilar J.
+Published: 2006-10-01
+Journal: Wseas Transactions on Computers
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=33747006642&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 284 ---
+Title: A tool for integrated design and implementation of conversations in multiagent systems
+Authors: Dinkloh M.
+Published: 2004-01-01
+Journal: Lecture Notes in Artificial Intelligence Subseries of Lecture Notes in Computer Science
+DOI: 10.1007/978-3-540-25936-7_10
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=23144449694&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 285 ---
+Title: Automatic code generation based on generic description of intelligent instrument
+Authors: Perrin S.
+Published: 2002-01-01
+Journal: Proceedings of the IEEE International Conference on Systems Man and Cybernetics
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=0036971612&origin=inward
 Summary: No Summary provided in search results.
 

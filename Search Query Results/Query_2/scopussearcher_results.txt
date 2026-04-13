@@ -1,20 +1,56 @@
-Total number of results: 24
+Total number of results: 72
 
 Titles of first 10 papers:
-1. Corrigendum to “nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster”(Heliyon, (2025), 11, 10, (e41866), (S2405844025002464), 10.1016/j.heliyon.2025.e41866)
-2. Teaching Reproducibility and Embracing Variability: From Floating-Point Experiments to Replicating Research
-3. Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design
-4. Adapting the AI Scientist for Enterprise: Solving Real Business Problems with Autonomous Text-To-SQL Research
-5. REPRO-BENCH: Can Agentic AI Systems Assess the Reproducibility of Social Science Research?
-6. Efficiency study of GraphQL and REST Microservices in Docker containers: A computational experiment
-7. Open source and reproducible and inexpensive infrastructure for data challenges and education
-8. Pro-Con Debate: Should Code Sharing Be Mandatory for Publication?
-9. 1-2-3 Reproducibility for Quantum Software Experiments
-10. Learning from reproducing computational results: Introducing three principles and the Reproduction Package
+1. Searching disease-related genes with Mapping of Biological Entities from Literature (MaBEL)
+2. Limitations and mitigation strategies for using generative artificial intelligence in medical writing: a narrative review
+3. Large Language Models for Chemists: Applications and Insights
+4. From articles to code: on-demand generation of core algorithms from scientific publications
+5. Corrigendum to “nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster”(Heliyon, (2025), 11, 10, (e41866), (S2405844025002464), 10.1016/j.heliyon.2025.e41866)
+6. Neural Methods for Programming: A Comprehensive Survey and Future Directions
+7. From Model Diagram to Code: A Benchmark Dataset and Multi-Agent Framework
+8. Teaching Reproducibility and Embracing Variability: From Floating-Point Experiments to Replicating Research
+9. Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design
+10. Adapting the AI Scientist for Enterprise: Solving Real Business Problems with Autonomous Text-To-SQL Research
 
 
 Full results details:
 --- Paper 1 ---
+Title: Searching disease-related genes with Mapping of Biological Entities from Literature (MaBEL)
+Authors: Rodrigues G.D.
+Published: 2026-08-01
+Journal: Computational Biology and Chemistry
+DOI: 10.1016/j.compbiolchem.2026.108958
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105030462559&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 2 ---
+Title: Limitations and mitigation strategies for using generative artificial intelligence in medical writing: a narrative review
+Authors: Jeon K.H.
+Published: 2026-02-01
+Journal: Journal of the Korean Medical Association
+DOI: 10.5124/jkma.25.0163
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033249781&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 3 ---
+Title: Large Language Models for Chemists: Applications and Insights
+Authors: Zheng Z.
+Published: 2026-01-01
+Journal: Large Language Models for Chemists Applications and Insights
+DOI: 10.1201/9781003669012
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027118150&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 4 ---
+Title: From articles to code: on-demand generation of core algorithms from scientific publications
+Authors: Movassaghi C.S.
+Published: 2026-01-01
+Journal: Bioinformatics
+DOI: 10.1093/bioinformatics/btag015
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105029042993&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 5 ---
 Title: Corrigendum to “nBLAST-JC: An accelerated deployment of nucleotide BLAST on high-performance cluster”(Heliyon, (2025), 11, 10, (e41866), (S2405844025002464), 10.1016/j.heliyon.2025.e41866)
 Authors: Rani S.
 Published: 2026-01-01
@@ -23,7 +59,25 @@ DOI: 10.1016/j.heliyon.2025.e44348
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105027552738&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 2 ---
+--- Paper 6 ---
+Title: Neural Methods for Programming: A Comprehensive Survey and Future Directions
+Authors: Maru G.G.
+Published: 2025-11-01
+Journal: Applied Sciences Switzerland
+DOI: 10.3390/app152212150
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022941037&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 7 ---
+Title: From Model Diagram to Code: A Benchmark Dataset and Multi-Agent Framework
+Authors: Wang M.
+Published: 2025-10-27
+Journal: Mm 2025 Proceedings of the 33rd ACM International Conference on Multimedia Co Located with mm 2025
+DOI: 10.1145/3746027.3755425
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105024062977&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 8 ---
 Title: Teaching Reproducibility and Embracing Variability: From Floating-Point Experiments to Replicating Research
 Authors: Acher M.
 Published: 2025-10-21
@@ -32,7 +86,7 @@ DOI: 10.1145/3736731.3746162
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022204627&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 3 ---
+--- Paper 9 ---
 Title: Longitudinal Study of the Software Environments Produced by Dockerfiles from Research Artifacts: Initial Design
 Authors: Guilloteau Q.
 Published: 2025-10-21
@@ -41,7 +95,7 @@ DOI: 10.1145/3736731.3746146
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105022148628&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 4 ---
+--- Paper 10 ---
 Title: Adapting the AI Scientist for Enterprise: Solving Real Business Problems with Autonomous Text-To-SQL Research
 Authors: Fedorov V.
 Published: 2025-10-01
@@ -50,7 +104,79 @@ DOI: 10.1134/S1064562425700474
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033844918&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 5 ---
+--- Paper 11 ---
+Title: GeoJSEval: An Automated Evaluation Framework for Large Language Models on JavaScript-Based Geospatial Computation and Visualization Code Generation
+Authors: Chen G.
+Published: 2025-10-01
+Journal: ISPRS International Journal of Geo Information
+DOI: 10.3390/ijgi14100382
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020090743&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 12 ---
+Title: OCR in the era of large models：current status and prospects
+Authors: Li H.
+Published: 2025-06-01
+Journal: Journal of Image and Graphics
+DOI: 10.11834/jig.250098
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011374179&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 13 ---
+Title: ChatGPT-driven machine learning code generation for android malware detection
+Authors: Nelson J.
+Published: 2025-04-01
+Journal: Computer Journal
+DOI: 10.1093/comjnl/bxae114
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105003432470&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 14 ---
+Title: Large Language Models can Help with Biostatistics and Coding Needed in Radiology Research
+Authors: Ghosh A.
+Published: 2025-02-01
+Journal: Academic Radiology
+DOI: 10.1016/j.acra.2024.09.042
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85206687562&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 15 ---
+Title: NL2CSP: Towards Automated CSP Code Generation with Large Language Models
+Authors: Wang C.
+Published: 2025-01-01
+Journal: Proceedings of the International Conference on Parallel and Distributed Systems ICPADS
+DOI: 10.1109/ICPADS67057.2025.11323031
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105032485596&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 16 ---
+Title: Developing Multi-Agent LLM Applications Through Continuous Human-LLM Co-Programming
+Authors: Song H.
+Published: 2025-01-01
+Journal: Proceedings 2025 IEEE ACM 4th International Conference on AI Engineering Software Engineering for AI Cain 2025
+DOI: 10.1109/CAIN66642.2025.00013
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009588397&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 17 ---
+Title: Utilization of Generative Artificial Intelligence in Geotechnical and Geoenvironmental Engineering
+Authors: Reddy K.R.
+Published: 2025-01-01
+Journal: Lecture Notes in Civil Engineering
+DOI: 10.1007/978-981-97-8393-9_22
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85219192311&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 18 ---
+Title: A Survey for Foundation Models in Autonomous Driving
+Authors: Gao H.
+Published: 2025-01-01
+Journal: 2025 6th International Conference on Computer Vision and Data Mining Iccvdm 2025
+DOI: 10.1109/ICCVDM66874.2025.11290083
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105031558636&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 19 ---
 Title: REPRO-BENCH: Can Agentic AI Systems Assess the Reproducibility of Social Science Research?
 Authors: Hu C.
 Published: 2025-01-01
@@ -59,7 +185,70 @@ DOI: 10.18653/v1/2025.findings-acl.1210
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105028632559&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 6 ---
+--- Paper 20 ---
+Title: Generative AI in Software Engineering: Enhancing Development and Innovation
+Authors: Saoiabi F.
+Published: 2025-01-01
+Journal: Lecture Notes in Networks and Systems
+DOI: 10.1007/978-3-031-86698-2_28
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105002722481&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 21 ---
+Title: CHARTMIMIC: EVALUATING LMM'S CROSS-MODAL REASONING CAPABILITY VIA CHART-TO-CODE GENERATION
+Authors: Yang C.
+Published: 2025-01-01
+Journal: 13th International Conference on Learning Representations Iclr 2025
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010235789&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 22 ---
+Title: Automating Vulnerability Scanning and Patching Along with OWASP and CVE Databases on Docker Container Images
+Authors: Ohaeche J.U.
+Published: 2025-01-01
+Journal: Lecture Notes in Networks and Systems
+DOI: 10.1007/978-3-031-87647-9_32
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105003637834&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 23 ---
+Title: Cloud Optimizer RL: A Smart Multi-Algorithm Reinforcement Learning-Based System of Automated Cloud Provider Selection and Resource Optimization Background and Motivation
+Authors: Ross J.T.A.
+Published: 2025-01-01
+Journal: Proceedings of 2025 10th International Conference on Science Technology Engineering and Mathematics Iconstem 2025
+DOI: 10.1109/ICONSTEM65670.2025.11374621
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105034486161&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 24 ---
+Title: COTP: Coplanning and Coexecuting AIGC Agent Native Product for Predictive Maintenance and Operational Optimisation of Cross Border Transition Pipelines
+Authors: Chen H.
+Published: 2025-01-01
+Journal: Society of Petroleum Engineers Adipec 2025
+DOI: 10.2118/229690-MS
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105033766203&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 25 ---
+Title: Harnessing ChatGPT intelligence for enhanced aerodynamic data analysis in aeronautics
+Authors: Andres-Perez E.
+Published: 2025-01-01
+Journal: Engineering Computations Swansea Wales
+DOI: 10.1108/EC-06-2024-0492
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023133673&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 26 ---
+Title: Containment of Compromised Nodes in a Distributed Environment
+Authors: Gupta A.
+Published: 2025-01-01
+Journal: Communications in Computer and Information Science
+DOI: 10.1007/978-3-031-75170-7_20
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85214136565&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 27 ---
 Title: Efficiency study of GraphQL and REST Microservices in Docker containers: A computational experiment
 Authors: Quiña-Mera A.
 Published: 2025-01-01
@@ -68,7 +257,7 @@ DOI: 10.56294/DM2025199
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105003243689&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 7 ---
+--- Paper 28 ---
 Title: Open source and reproducible and inexpensive infrastructure for data challenges and education
 Authors: DeWitt P.E.
 Published: 2024-12-01
@@ -77,7 +266,97 @@ DOI: 10.1038/s41597-023-02854-0
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85181243688&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 8 ---
+--- Paper 29 ---
+Title: AN ARTIFICIAL INTELLIGENCE (AI)-ASSISTED SCOPING REVIEW OF EMERGING USES OF AI IN QUALITATIVE RESEARCH AND ITS ETHICAL CONSIDERATIONS
+Authors: Sampaio R.C.
+Published: 2024-04-30
+Journal: Revista Pesquisa Qualitativa
+DOI: 10.33361/RPQ.2024.v.12.n.30.729
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85198333640&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 30 ---
+Title: SciDoc2Diagrammer-MAF: Towards Generation of Scientific Diagrams from Documents guided by Multi-Aspect Feedback Refinement
+Authors: Mondal I.
+Published: 2024-01-01
+Journal: Emnlp 2024 2024 Conference on Empirical Methods in Natural Language Processing Findings of Emnlp 2024
+DOI: 10.18653/v1/2024.findings-emnlp.780
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85215455347&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 31 ---
+Title: An Innovative Approach of API Automation Testing Implemented on Cloud Environments Using Container Management Services
+Authors: Dimova T.
+Published: 2024-01-01
+Journal: Proceedings of International Conference on Applied Innovation in IT
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85190942818&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 32 ---
+Title: A Model for Automatic Code Generation from High Fidelity Graphical User Interface Mockups using Deep Learning Techniques
+Authors: Samir M.
+Published: 2024-01-01
+Journal: International Journal of Advanced Computer Science and Applications
+DOI: 10.14569/IJACSA.2024.0150369
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85189942986&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 33 ---
+Title: NL2Code: Harnessing Transformers for Automatic Code Generation from Natural Language Descriptions
+Authors: Pavitha N.
+Published: 2024-01-01
+Journal: Lecture Notes in Networks and Systems
+DOI: 10.1007/978-981-97-1326-4_7
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85196745770&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 34 ---
+Title: The flight management system in parrot mini-drone
+Authors: Kadhim E.H.
+Published: 2023-04-12
+Journal: Aip Conference Proceedings
+DOI: 10.1063/5.0137270
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85159674549&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 35 ---
+Title: ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns
+Authors: Sallam M.
+Published: 2023-03-01
+Journal: Healthcare Switzerland
+DOI: 10.3390/healthcare11060887
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85151154236&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 36 ---
+Title: Kubernetes-The Evolution of Virtualization and The Deployment Of the Application On Kubernetes.
+Authors: Khan M.A.
+Published: 2023-01-01
+Journal: Proceedings of 2023 IEEE Technology and Engineering Management Conference Asia Pacific Temscon Aspac 2023
+DOI: 10.1109/TEMSCON-ASPAC59527.2023.10531449
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85195113585&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 37 ---
+Title: From ChatGPT to ThreatGPT: Impact of Generative AI in Cybersecurity and Privacy
+Authors: Gupta M.
+Published: 2023-01-01
+Journal: IEEE Access
+DOI: 10.1109/ACCESS.2023.3300381
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85166782819&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 38 ---
+Title: Corrigendum: Deep learning for the detection of anatomical tissue structures and neoplasms of the skin on scanned histopathological tissue sections (Front. Oncol., (2022), 12, (1022967)., 10.3389/fonc.2022.1022967)
+Authors: Kriegsmann K.
+Published: 2023-01-01
+Journal: Frontiers in Oncology
+DOI: 10.3389/fonc.2023.1201237
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85161043318&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 39 ---
 Title: Pro-Con Debate: Should Code Sharing Be Mandatory for Publication?
 Authors: Melvin R.L.
 Published: 2022-08-01
@@ -86,7 +365,16 @@ DOI: 10.1213/ANE.0000000000005848
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85134632096&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 9 ---
+--- Paper 40 ---
+Title: Combining Container Orchestration and Machine Learning in the Cloud: A Systematic Mapping Study
+Authors: Naydenov N.
+Published: 2022-01-01
+Journal: 2022 21st International Symposium Infoteh Jahorina Infoteh 2022 Proceedings
+DOI: 10.1109/INFOTEH53737.2022.9751317
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85128763117&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 41 ---
 Title: 1-2-3 Reproducibility for Quantum Software Experiments
 Authors: Mauerer W.
 Published: 2022-01-01
@@ -95,7 +383,16 @@ DOI: 10.1109/SANER53432.2022.00148
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85127093815&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 10 ---
+--- Paper 42 ---
+Title: RateML: A Code Generation Tool for Brain Network Models
+Authors: van der Vlag M.
+Published: 2022-01-01
+Journal: Frontiers in Network Physiology
+DOI: 10.3389/fnetp.2022.826345
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85126936963&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 43 ---
 Title: Learning from reproducing computational results: Introducing three principles and the Reproduction Package
 Authors: Krafczyk M.S.
 Published: 2021-05-17
@@ -104,7 +401,7 @@ DOI: 10.1098/rsta.2020.0069
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103609318&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 11 ---
+--- Paper 44 ---
 Title: Ten simple rules for writing Dockerfiles for reproducible data science
 Authors: Nust D.
 Published: 2020-11-10
@@ -113,7 +410,16 @@ DOI: 10.1371/journal.pcbi.1008316
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85096030368&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 12 ---
+--- Paper 45 ---
+Title: LAURA architecture: Towards a simpler way of building situation-aware and business-aware IoT applications
+Authors: Teixeira S.
+Published: 2020-03-01
+Journal: Journal of Systems and Software
+DOI: 10.1016/j.jss.2019.110494
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076549690&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 46 ---
 Title: Leveraging container technologies in a giscience project: A perspective from open reproducible research
 Authors: Zaragozí B.M.
 Published: 2020-01-01
@@ -122,7 +428,34 @@ DOI: 10.3390/ijgi9030138
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85081894526&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 13 ---
+--- Paper 47 ---
+Title: Automating dynamic decoupling in object-oriented modelling and simulation tools
+Authors: Papadopoulos A.V.
+Published: 2020-01-01
+Journal: Proceedings of the 5th International Workshop on Equation Based Object Oriented Modeling Languages and Tools Eoolt 2013
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84903644048&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 48 ---
+Title: Replicated computational results (RCR) Report for "Code generation for generally mapped finite elements"
+Authors: Lindquist N.
+Published: 2019-12-01
+Journal: ACM Transactions on Mathematical Software
+DOI: 10.1145/3360984
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85076706874&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 49 ---
+Title: Towards a Model-centric Approach for Developing Dependable Smart Grid Applications
+Authors: Fischinger M.
+Published: 2019-11-01
+Journal: 2019 4th International Conference on System Reliability and Safety Icsrs 2019
+DOI: 10.1109/ICSRS48664.2019.8987626
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85080142249&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 50 ---
 Title: IsoProt: A Complete and Reproducible Workflow to Analyze iTRAQ/TMT Experiments
 Authors: Griss J.
 Published: 2019-04-05
@@ -131,7 +464,7 @@ DOI: 10.1021/acs.jproteome.8b00968
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85063970771&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 14 ---
+--- Paper 51 ---
 Title: Dugong: A Docker image, based on Ubuntu Linux, focused on reproducibility and replicability for bioinformatics analyses
 Authors: Menegidio F.B.
 Published: 2018-02-01
@@ -140,7 +473,16 @@ DOI: 10.1093/bioinformatics/btx554
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85041428367&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 15 ---
+--- Paper 52 ---
+Title: Improvement and approval of impediment recognition and activity for power window
+Authors: Kumar R.
+Published: 2018-01-01
+Journal: Advances in Intelligent Systems and Computing
+DOI: 10.1007/978-981-10-5903-2_89
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85045832870&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 53 ---
 Title: Portable learning environments for hands-on computational instruction using container-and cloud-based technology to teach data science
 Authors: Holdgraf C.
 Published: 2017-07-09
@@ -149,16 +491,16 @@ DOI: 10.1145/3093338.3093370
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025842595&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 16 ---
-Title: drVM: A new tool for efficient genome assembly of known eukaryotic viruses from metagenomes
-Authors: Lin H.H.
-Published: 2017-02-01
-Journal: Gigascience
-DOI: 10.1093/gigascience/gix003
-URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021860119&origin=inward
+--- Paper 54 ---
+Title: Proceedings - International Conference on Research Challenges in Information Science
+Authors: Unknown
+Published: 2017-06-23
+Journal: Proceedings International Conference on Research Challenges in Information Science
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85025144186&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 17 ---
+--- Paper 55 ---
 Title: Multicenter data sharing for collaboration in sleep medicine
 Authors: Beier M.
 Published: 2017-02-01
@@ -167,7 +509,16 @@ DOI: 10.1016/j.future.2016.03.025
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84965052616&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 18 ---
+--- Paper 56 ---
+Title: drVM: A new tool for efficient genome assembly of known eukaryotic viruses from metagenomes
+Authors: Lin H.H.
+Published: 2017-02-01
+Journal: Gigascience
+DOI: 10.1093/gigascience/gix003
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021860119&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 57 ---
 Title: Opening the publication process with executable research compendia
 Authors: Nüst D.
 Published: 2017-01-01
@@ -176,7 +527,7 @@ DOI: 10.1045/january2017-nuest
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85011655890&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 19 ---
+--- Paper 58 ---
 Title: WalT: A reproducible testbed for reproducible network experiments
 Authors: Brunisholz P.
 Published: 2016-09-06
@@ -185,7 +536,7 @@ DOI: 10.1109/INFCOMW.2016.7562062
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84988859603&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 20 ---
+--- Paper 59 ---
 Title: Using docker containers to improve reproducibility in software engineering research
 Authors: Cito J.
 Published: 2016-05-14
@@ -194,7 +545,34 @@ DOI: 10.1145/2889160.2891057
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85021371427&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 21 ---
+--- Paper 60 ---
+Title: Segmented sandboxing - A novel approach to Malware polymorphism detection
+Authors: Osorio F.C.C.
+Published: 2016-02-18
+Journal: 2015 10th International Conference on Malicious and Unwanted Software Malware 2015
+DOI: 10.1109/MALWARE.2015.7413685
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84969872580&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 61 ---
+Title: DSL approach for development of gaming applications
+Authors: Vijayakumar A.
+Published: 2016-01-01
+Journal: Advances in Intelligent Systems and Computing
+DOI: 10.1007/978-81-322-2755-7_21
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84965031220&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 62 ---
+Title: A novel R-UML-B approach for modeling and code generation of Reconfigurable Control Systems
+Authors: Oueslati R.
+Published: 2016-01-01
+Journal: Enase 2016 Proceedings of the 11th International Conference on Evaluation of Novel Software Approaches to Software Engineering
+DOI: 10.5220/0005829301400147
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84979574412&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 63 ---
 Title: Using docker containers to improve reproducibility in software and web engineering research
 Authors: Cito J.
 Published: 2016-01-01
@@ -203,7 +581,7 @@ DOI: 10.1007/978-3-319-38791-8_58
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84977594883&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 22 ---
+--- Paper 64 ---
 Title: Reproducible and shareable quantifications of pathogenicity
 Authors: Manrai A.K.
 Published: 2016-01-01
@@ -212,7 +590,61 @@ DOI: 10.1142/9789814749411_0022
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85012120405&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 23 ---
+--- Paper 65 ---
+Title: Acclimations of Petri net theory in real-time system for hybrid plant
+Authors: Abu Bakar B.B.
+Published: 2013-12-01
+Journal: Proceedings of 2013 Science and Information Conference Sai 2013
+DOI: No DOI
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84892551495&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 66 ---
+Title: Hardware design space exploration using HercuLeS HLS
+Authors: Kavvadias N.
+Published: 2013-10-30
+Journal: ACM International Conference Proceeding Series
+DOI: 10.1145/2491845.2491857
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84886379429&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 67 ---
+Title: Synthesising graphics card programs from DSLs
+Authors: Cartey L.
+Published: 2012-08-01
+Journal: ACM SIGPLAN Notices
+DOI: 10.1145/2345156.2254080
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84866353470&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 68 ---
+Title: Synthesising graphics card programs from DSLs
+Authors: Cartey L.
+Published: 2012-07-09
+Journal: Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation PLDI
+DOI: 10.1145/2254064.2254080
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84863467233&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 69 ---
+Title: Multi-agent system design and integration via agent development environment
+Authors: Tichý P.
+Published: 2012-06-01
+Journal: Engineering Applications of Artificial Intelligence
+DOI: 10.1016/j.engappai.2011.09.021
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84859434365&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 70 ---
+Title: A retargetable framework for compiler/architecture co-development
+Authors: Scharwaechter H.
+Published: 2011-12-01
+Journal: Design Automation for Embedded Systems
+DOI: 10.1007/s10617-011-9080-8
+URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=84855342820&origin=inward
+Summary: No Summary provided in search results.
+
+--- Paper 71 ---
 Title: Toward executable scientific publications
 Authors: Strijkers R.
 Published: 2011-06-15
@@ -221,7 +653,7 @@ DOI: 10.1016/j.procs.2011.04.074
 URL: https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=79958272183&origin=inward
 Summary: No Summary provided in search results.
 
---- Paper 24 ---
+--- Paper 72 ---
 Title: Visualization and interactive simulation of modelica models for control education
 Authors: Carla M.V.
 Published: 2009-11-17

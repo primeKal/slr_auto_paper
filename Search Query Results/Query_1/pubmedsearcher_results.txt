@@ -1,16 +1,16 @@
-Total number of results: 10
+Total number of results: 12
 
 Titles of first 10 papers:
 1. ggplotAgent: a self-debugging multi-modal agent for robust and reproducible scientific visualization.
 2. PyPIMalDet: A malicious PyPI package detection method combining code features and metadata features.
-3. Privacy-, linguistic-, and information-preserving synthesis of clinical documentation through generative agents.
-4. Styx: A multi-language API Generator for Command-Line Tools.
-5. From segmentation to explanation: Generating textual reports from MRI with LLMs.
-6. DrugTar improves druggability prediction by integrating large language models and gene ontologies.
-7. Automatic biomarker discovery and enrichment with BRAD.
-8. FoodAtlas: Automated knowledge extraction of food and chemicals from literature.
-9. CVIDS: A Collaborative Localization and Dense Mapping Framework for Multi-Agent Based Visual-Inertial SLAM.
-10. BioASF: a framework for automatically generating executable pathway models specified in BioPAX.
+3. Generative AI and foundation models in medical image.
+4. Privacy-, linguistic-, and information-preserving synthesis of clinical documentation through generative agents.
+5. Styx: A multi-language API Generator for Command-Line Tools.
+6. From segmentation to explanation: Generating textual reports from MRI with LLMs.
+7. DrugTar improves druggability prediction by integrating large language models and gene ontologies.
+8. Automatic biomarker discovery and enrichment with BRAD.
+9. FoodAtlas: Automated knowledge extraction of food and chemicals from literature.
+10. CODEIPPROMPT: Intellectual Property Infringement Assessment of Code Language Models.
 
 
 Full results details:
@@ -33,6 +33,15 @@ URL: https://pubmed.ncbi.nlm.nih.gov/41447827/
 Summary: Available in PubMed search engine via the URL.
 
 --- Paper 3 ---
+Title: Generative AI and foundation models in medical image.
+Authors: Oda M
+Published: 2025 Dec
+Journal: Radiological physics and technology
+DOI: 10.1007/s12194-025-00968-1
+URL: https://pubmed.ncbi.nlm.nih.gov/41051729/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 4 ---
 Title: Privacy-, linguistic-, and information-preserving synthesis of clinical documentation through generative agents.
 Authors: van Velzen M, van der Willigen RF, de Beer VJ, de Graaf-Waar HI, Janssen ERC, van Leeuwen S, van der Willigen MF, van der Willigen MJ, Renardus G, El Maaroufi R, Satimin SJ, Hartog LM, Hulsen T, van Meeteren NLU, Scheper MC
 Published: 2025
@@ -41,7 +50,7 @@ DOI: 10.3389/frai.2025.1644084
 URL: https://pubmed.ncbi.nlm.nih.gov/41036253/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 4 ---
+--- Paper 5 ---
 Title: Styx: A multi-language API Generator for Command-Line Tools.
 Authors: Rupprecht F, Kai J, Shrestha B, Giavasis S, Xu T, Glatard T, Milham MP, Kiar G
 Published: 2025 Jul 30
@@ -50,7 +59,7 @@ DOI: 10.1101/2025.07.24.666435
 URL: https://pubmed.ncbi.nlm.nih.gov/40766634/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 5 ---
+--- Paper 6 ---
 Title: From segmentation to explanation: Generating textual reports from MRI with LLMs.
 Authors: Valerio AG, Trufanova K, de Benedictis S, Vessio G, Castellano G
 Published: 2025 Oct
@@ -59,7 +68,7 @@ DOI: 10.1016/j.cmpb.2025.108922
 URL: https://pubmed.ncbi.nlm.nih.gov/40633400/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 6 ---
+--- Paper 7 ---
 Title: DrugTar improves druggability prediction by integrating large language models and gene ontologies.
 Authors: Borhani N, Izadi I, Motahharynia A, Sheikholeslami M, Gheisari Y
 Published: 2025 Jul 1
@@ -68,7 +77,7 @@ DOI: 10.1093/bioinformatics/btaf360
 URL: https://pubmed.ncbi.nlm.nih.gov/40581797/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 7 ---
+--- Paper 8 ---
 Title: Automatic biomarker discovery and enrichment with BRAD.
 Authors: Pickard J, Prakash R, Choi MA, Oliven N, Stansbury C, Cwycyshyn J, Galioto N, Gorodetsky A, Velasquez A, Rajapakse I
 Published: 2025 May 6
@@ -77,7 +86,7 @@ DOI: 10.1093/bioinformatics/btaf159
 URL: https://pubmed.ncbi.nlm.nih.gov/40323323/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 8 ---
+--- Paper 9 ---
 Title: FoodAtlas: Automated knowledge extraction of food and chemicals from literature.
 Authors: Youn J, Li F, Simmons G, Kim S, Tagkopoulos I
 Published: 2024 Oct
@@ -86,7 +95,16 @@ DOI: 10.1016/j.compbiomed.2024.109072
 URL: https://pubmed.ncbi.nlm.nih.gov/39216404/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 9 ---
+--- Paper 10 ---
+Title: CODEIPPROMPT: Intellectual Property Infringement Assessment of Code Language Models.
+Authors: Yu Z, Wu Y, Zhang N, Wang C, Vorobeychik Y, Xiao C
+Published: 2023 Jul
+Journal: Proceedings of machine learning research
+DOI: No DOI
+URL: https://pubmed.ncbi.nlm.nih.gov/40860285/
+Summary: Available in PubMed search engine via the URL.
+
+--- Paper 11 ---
 Title: CVIDS: A Collaborative Localization and Dense Mapping Framework for Multi-Agent Based Visual-Inertial SLAM.
 Authors: Zhang T, Zhang L, Chen Y, Zhou Y
 Published: 2022
@@ -95,7 +113,7 @@ DOI: 10.1109/TIP.2022.3213189
 URL: https://pubmed.ncbi.nlm.nih.gov/36240038/
 Summary: Available in PubMed search engine via the URL.
 
---- Paper 10 ---
+--- Paper 12 ---
 Title: BioASF: a framework for automatically generating executable pathway models specified in BioPAX.
 Authors: Haydarlou R, Jacobsen A, Bonzanni N, Feenstra KA, Abeln S, Heringa J
 Published: 2016 Jun 15

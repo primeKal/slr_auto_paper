@@ -1,8 +1,8 @@
 Search Query Used:
 --------------------------------------------------
-("large language model*" OR "LLM*" OR "autonomous agent*" OR "multi-agent*" OR "AI agent*") AND ("code repositor*" OR "source code" OR "scientific paper*" OR "executable paper*" OR "research artifact*") AND ("reproducib*" OR "code execution" OR "dependency resolution" OR "environment synthesis" OR "dynamic analysis" OR "runtime profiling" OR "sandboxing" OR "automated execution" OR "environment setup" OR "containerization" OR "code repair")
+("large language model*" OR "LLM*" OR "autonomous agent*" OR "multi-agent*" OR "AI agent*") AND ("code repositor*" OR "source code" OR "scientific paper*" OR "executable paper*" OR "research artifact*") AND ("reproducib*" OR "code execution" OR "dependency resolution" OR "environment synthesis" OR "dynamic analysis" OR "runtime profiling" OR "sandboxing" OR "automated execution" OR "environment setup" OR "containerization" OR "code repair" OR "code generation")
 --------------------------------------------------
 
-ArxivSearcher Results: 31
-ScopusSearcher Results: 101
-PubmedSearcher Results: 10
+ArxivSearcher Results: 180
+ScopusSearcher Results: 285
+PubmedSearcher Results: 12

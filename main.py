@@ -6,7 +6,7 @@ def main():
     load_dotenv()
     
     # Define the search query
-    query_str = '''("scientific paper*" OR "research paper*" OR "scholarly article*" OR "preprint*" OR "manuscript*" OR "executable paper*" OR "research artifact*") AND ("large language model*" OR "LLM*" OR "generative AI" OR "autonomous*" OR "automatic*" OR "fully automated" OR "AI agent*" OR "agentic workflow*" OR "reproducib*" OR "replicab*" OR "reproduction" OR "replication" OR "Paper2code") AND ("executable code" OR "environment synthesis" OR "dependency resolution" OR "containerization" OR "Docker*" OR "sandboxing" OR "execution platform*" OR "reproduction package*")'''
+    query_str = '''("scientific paper*" OR "research paper*" OR "scholarly article*" OR "preprint*" OR "manuscript*" OR "executable paper*" OR "research artifact*") AND ("large language model*" OR "LLM*" OR "generative AI" OR "autonomous*" OR "automatic*" OR "fully automated" OR "automat*" OR "AI agent*" OR "agentic workflow*" OR "reproducib*" OR "replicab*" OR "reproduction" OR "replication" OR "Paper2code") AND ("executable code" OR "environment synthesis" OR "dependency resolution" OR "containerization" OR "Docker*" OR "sandboxing" OR "execution platform*" OR "reproduction package*")'''
     
     # Base output directory
     base_output_dir = "Search Query Results"

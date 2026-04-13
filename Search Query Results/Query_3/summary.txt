@@ -1,0 +1,9 @@
+Search Query Used:
+--------------------------------------------------
+("code repository" OR "source code" OR "scientific paper*" OR "executable paper*" OR "software project*") AND ("large language model*" OR "LLM*" OR "AI agent*" OR "autonomous agent*" OR "automatic*" OR "fully automated" OR "Paper2code") AND ("environment setup" OR "environment synthesis" OR "dependency resolution" OR "automated execution" OR "code generation" OR "code repair" OR "sandboxing" OR "containerization")
+Scopus Filter: AND SUBJAREA(COMP)
+--------------------------------------------------
+
+ArxivSearcher Results: 248
+ScopusSearcher Results: 553
+PubmedSearcher Results: 9
